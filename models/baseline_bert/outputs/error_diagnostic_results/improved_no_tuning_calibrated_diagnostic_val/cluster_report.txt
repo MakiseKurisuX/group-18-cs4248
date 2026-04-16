@@ -1,0 +1,77 @@
+MESO-LEVEL CLUSTER REPORT  (K=8)
+Mode: improved_no_tuning_calibrated   Dataset: diagnostic_val
+======================================================================
+
+----------------------------------------------------------------------
+  C0: parade, parade passes, passes, stolen moment, moment week
+  Size: 25  |  FP: 22  |  FN: 3
+----------------------------------------------------------------------
+  [1] freeze-resistant cockroaches invade manhattan
+  [2] monica lewinsky breaks decade-long silence
+  [3] volunteers rush to clean up glistening hunks after massive baby oil spill
+  [4] kids have hysterical reaction to the thanksgiving side dishes of decades past
+
+----------------------------------------------------------------------
+  C1: dryers 50, dryers, blow, blow dryers, best blow
+  Size: 13  |  FP: 2  |  FN: 11
+----------------------------------------------------------------------
+  [1] goddamn it, the neighbors are silently going at it again, i imagine
+  [2] best blow-dryers under $50
+  [3] conditions ideal for eating competition
+  [4] dying lion sure doesn't feel as though he's completing some great cosmic circle
+
+----------------------------------------------------------------------
+  C2: women, people, community survive, youthful ed, community
+  Size: 17  |  FP: 13  |  FN: 4
+----------------------------------------------------------------------
+  [1] women: republicans just aren't that into us
+  [2] u.s. life expectancy falls as more people die from illnesses
+  [3] virtual community: can we survive it?
+  [4] postal service financial problems: 10 things they don't want you to know
+
+----------------------------------------------------------------------
+  C3: police, year, flight, painful, house
+  Size: 20  |  FP: 10  |  FN: 10
+----------------------------------------------------------------------
+  [1] bbc host reveals shocking homemade gift he once gave a girlfriend
+  [2] whistleblower uncovers cia plot to get president laid
+  [3] hillary clinton demands fbi release any information it has on new email investigation
+  [4] florida car rental employees find toddler left in returned vehicle
+
+----------------------------------------------------------------------
+  C4: facebook, public, jacko attacko, attacko, jacko
+  Size: 30  |  FP: 1  |  FN: 29
+----------------------------------------------------------------------
+  [1] facebook adds more than 50 new gender options
+  [2] seattle installing ping-pong tables in public parks to deter crime
+  [3] facebook cracking down on misinformation by warning users who share links from facebook
+  [4] starbucks partners with spotify to ‘make the barista the dj’
+
+----------------------------------------------------------------------
+  C5: trump, age, says, releases, photo
+  Size: 24  |  FP: 23  |  FN: 1
+----------------------------------------------------------------------
+  [1] national alzheimer's plan sets deadline to find treatments for memory-robbing disease
+  [2] columbine video game stirs controversy
+  [3] california raises smoking age to 21
+  [4] perfectly preserved fast-food restaurant sparks new interest after viral photo
+
+----------------------------------------------------------------------
+  C6: things, like, year, old, won
+  Size: 38  |  FP: 1  |  FN: 37
+----------------------------------------------------------------------
+  [1] i should not be allowed to say the following things about america
+  [2] i won't ever let the position of county surveyor go to my head
+  [3] tough: the new tmnt game follows a european trip where the turtles realize their fervent italian-american pride has little in common with modern italian life
+  [4] as long as you're under my roof, you'll play by my monopoly rules
+
+----------------------------------------------------------------------
+  C7: life, love life, love, years, film
+  Size: 26  |  FP: 26  |  FN: 0
+----------------------------------------------------------------------
+  [1] american black film festival announces 2016 film lineup
+  [2] split-decision pie pan lets you have two pies in one
+  [3] jetblue event raises question of unstable approach to hiring
+  [4] tuba player is easily scared apparently
+
+======================================================================

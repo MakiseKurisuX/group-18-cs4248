@@ -1,0 +1,77 @@
+MESO-LEVEL CLUSTER REPORT  (K=8)
+Mode: pretrained_large   Dataset: diagnostic_val
+======================================================================
+
+----------------------------------------------------------------------
+  C0: photos, best, 10, video, day
+  Size: 124  |  FP: 124  |  FN: 0
+----------------------------------------------------------------------
+  [1] 7 beauty treatments for bedtime to ease into a good night's sleep (gifs, photos)
+  [2] 18 post-split new year's resolutions that will inspire you
+  [3] design diy: metallic concrete votives
+  [4] 13 trends we hope die out in 2013 (photos)
+
+----------------------------------------------------------------------
+  C1: america, trump, climate, new, help
+  Size: 129  |  FP: 129  |  FN: 0
+----------------------------------------------------------------------
+  [1] the security fence, the anti-terrorism barrier, the wall
+  [2] are more nonsense travel fees coming in 2014? (poll)
+  [3] innovative bottom-up solutions to tackle urban poverty
+  [4] another reason why cutting pollution is essential to future generations
+
+----------------------------------------------------------------------
+  C2: police, court, couple, shooting, california
+  Size: 150  |  FP: 149  |  FN: 1
+----------------------------------------------------------------------
+  [1] islamic state abducts nearly 300 iraqi security forces near mosul, un reports
+  [2] pennsylvania blames woman for her own rape
+  [3] delta employees make video of airport flash mobs (video)
+  [4] baggage handler gets locked inside plane's cargo area during flight
+
+----------------------------------------------------------------------
+  C3: tips, life, ways, risk, meditation
+  Size: 148  |  FP: 148  |  FN: 0
+----------------------------------------------------------------------
+  [1] 11 little-known facts about left-handers
+  [2] main streets, malls and sustainable consumption
+  [3] the death (and life) of marriage in america
+  [4] 23 thoughts non-runners have on a run
+
+----------------------------------------------------------------------
+  C4: trump, donald, donald trump, clinton, hillary
+  Size: 142  |  FP: 142  |  FN: 0
+----------------------------------------------------------------------
+  [1] 4 of 9 trump nominees set for hearings this week haven't completed ethics disclosures [updated]
+  [2] catholic nuns bash gop tax law on nationwide bus tour
+  [3] congress bucks obama, passes bill letting 9/11 victims sue saudi arabia
+  [4] us unions plan attack on donald trump in attempt to derail presidential bid
+
+----------------------------------------------------------------------
+  C5: photos, video, week, new, dress
+  Size: 167  |  FP: 167  |  FN: 0
+----------------------------------------------------------------------
+  [1] billy joel and jimmy fallon surprise everyone with impromptu doo-wop
+  [2] carrie underwood's silver leggings top this week's worst-dressed list (photos)
+  [3] watch jessica lange and shirley maclaine turn heads in this 'wild oats' clip
+  [4] picasso and pornhub: what i learned from magazines this week
+
+----------------------------------------------------------------------
+  C6: new, man, trump, black, passes
+  Size: 112  |  FP: 87  |  FN: 25
+----------------------------------------------------------------------
+  [1] red vaya, lamata, kopaja, busetas: how the urban poor commute
+  [2] youthful ed: more to the story?
+  [3] twitter drags cnn host who implied indian-american spelling bee champ uses sanskrit
+  [4] 5 untrue snapple facts
+
+----------------------------------------------------------------------
+  C7: don, things, love, make, need
+  Size: 253  |  FP: 253  |  FN: 0
+----------------------------------------------------------------------
+  [1] watch 70 deserving girls turn into prom queens
+  [2] new uses for things in your closet
+  [3] the world's first permanent death cafe could soon come to london
+  [4] kids have hysterical reaction to the thanksgiving side dishes of decades past
+
+======================================================================

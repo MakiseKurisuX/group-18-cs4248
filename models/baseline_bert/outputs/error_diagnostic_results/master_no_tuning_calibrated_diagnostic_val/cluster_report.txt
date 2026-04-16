@@ -1,0 +1,73 @@
+MESO-LEVEL CLUSTER REPORT  (K=8)
+Mode: master_no_tuning_calibrated   Dataset: diagnostic_val
+======================================================================
+
+----------------------------------------------------------------------
+  C0: star, challenges, clinton, facing, facing hillary
+  Size: 12  |  FP: 12  |  FN: 0
+----------------------------------------------------------------------
+  [1] seniors decked out in graduation gear walk halls to inspire younger students
+  [2] the challenges facing hillary clinton
+  [3] study finds having a conversation about trans issues can change people's minds
+  [4] police pursue person of interest in 42-year-old 'valentine's day killings' cold case
+
+----------------------------------------------------------------------
+  C1: proud gay, slut, proud, gay slut, gay
+  Size: 8  |  FP: 4  |  FN: 4
+----------------------------------------------------------------------
+  [1] i’m proud to be a gay ‘slut’
+  [2] proposed legislation would require airline seats meet federal ass standards
+  [3] syria conflict intensifies as bears enter war
+  [4] canada’s inuit launch national suicide prevention strategy
+
+----------------------------------------------------------------------
+  C2: house, virus, new, admired lawbreaker, america
+  Size: 14  |  FP: 14  |  FN: 0
+----------------------------------------------------------------------
+  [1] house votes down proposal to end 2001 war authorization
+  [2] childish gambino releases new song 'candler road'
+  [3] jerry sandusky's pension reinstated by appeals court
+  [4] possibly tipsy man loves cheap costco beer so much, he made a commercial for it
+
+----------------------------------------------------------------------
+  C3: explaining boston, parents explaining, tragedy children, tragedy, parents
+  Size: 3  |  FP: 1  |  FN: 2
+----------------------------------------------------------------------
+  [1] how parents are explaining the boston tragedy to children
+  [2] commencement speaker some rando who pioneered lifesaving medical research
+  [3] investigators determine air france disaster caused by plane crash
+
+----------------------------------------------------------------------
+  C4: trump, wanna, wanna everybody, everybody knows, everybody
+  Size: 10  |  FP: 10  |  FN: 0
+----------------------------------------------------------------------
+  [1] research finds turning off air conditioning during the day can save money
+  [2] trump releases 46 minutes of lies falsely asserting ‘fraud’ in 2020 election
+  [3] sometimes you wanna go where everybody knows your name
+  [4] california raises smoking age to 21
+
+----------------------------------------------------------------------
+  C5: symphony finally, symphony, mesmerizing deep, mesmerizing, ocean symphony
+  Size: 2  |  FP: 2  |  FN: 0
+----------------------------------------------------------------------
+  [1] first-grader judges 2013 oscar-nominated movies by their posters
+  [2] mesmerizing deep ocean 'symphony' finally identified
+
+----------------------------------------------------------------------
+  C6: a380, sawadee, sawadee thai, thai a380, thai
+  Size: 7  |  FP: 6  |  FN: 1
+----------------------------------------------------------------------
+  [1] microsoft fights u.s. government over data requests
+  [2] sawadee thai a380 first class
+  [3] reporters without borders says trump ‘poses major threat to u.s. democracy’
+  [4] whirring sounds heard across seattle as tech workers overheat
+
+----------------------------------------------------------------------
+  C7: egg, thing digital, thing, natives, digital natives
+  Size: 3  |  FP: 3  |  FN: 0
+----------------------------------------------------------------------
+  [1] there's no such thing as 'digital natives'
+  [2] put an egg on it!
+  [3] unimpressed cat is not at all interested in your magic trick
+
+======================================================================

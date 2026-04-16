@@ -1,0 +1,77 @@
+MESO-LEVEL CLUSTER REPORT  (K=8)
+Mode: improved_no_tuning   Dataset: diagnostic_val
+======================================================================
+
+----------------------------------------------------------------------
+  C0: passes, trick, parade passes, parade, breaks
+  Size: 25  |  FP: 19  |  FN: 6
+----------------------------------------------------------------------
+  [1] my god, what passes for crunch-tastic these days
+  [2] monica lewinsky breaks decade-long silence
+  [3] sam nunberg: 'i'm not having a meltdown'
+  [4] goddamn it, the neighbors are silently going at it again, i imagine
+
+----------------------------------------------------------------------
+  C1: women, hurricane, 13, conservationists, stolen moment
+  Size: 26  |  FP: 11  |  FN: 15
+----------------------------------------------------------------------
+  [1] trump wants to bring back the fifties
+  [2] best blow-dryers under $50
+  [3] volunteers rush to clean up glistening hunks after massive baby oil spill
+  [4] egyptian conservationists fight to protect dwindling mummy population
+
+----------------------------------------------------------------------
+  C2: won, year, fuck, gonna, gonna wii
+  Size: 13  |  FP: 0  |  FN: 13
+----------------------------------------------------------------------
+  [1] i won't ever let the position of county surveyor go to my head
+  [2] i always thought losing your sunglasses was something that happened to other people
+  [3] i'm gonna get me a wii if it kills me
+  [4] thanksgiving won't be the same this year without a house
+
+----------------------------------------------------------------------
+  C3: president, flight, house, plane, man
+  Size: 24  |  FP: 14  |  FN: 10
+----------------------------------------------------------------------
+  [1] nazi-themed trump billboard to stay up as long as he's president, owner says
+  [2] richard branson seeks help in identifying conman involved in multimillion-dollar scam
+  [3] bbc host reveals shocking homemade gift he once gave a girlfriend
+  [4] police pursue person of interest in 42-year-old 'valentine's day killings' cold case
+
+----------------------------------------------------------------------
+  C4: people, community survive, ed story, community, virtual community
+  Size: 15  |  FP: 13  |  FN: 2
+----------------------------------------------------------------------
+  [1] low-carb diet linked to dying young
+  [2] peanut allergies more common in kids from wealthy families
+  [3] gum may aid colon surgery recovery
+  [4] gay trainer uses new passion to break down barriers with straight men
+
+----------------------------------------------------------------------
+  C5: life, love life, trump, finally, love
+  Size: 35  |  FP: 35  |  FN: 0
+----------------------------------------------------------------------
+  [1] u.s. mint to resume silver coin sales after running out
+  [2] marvel releases full-sized teaser for 'ant-man' trailer
+  [3] research finds turning off air conditioning during the day can save money
+  [4] iraqi forces attempt first push into mosul as offensive enters third week
+
+----------------------------------------------------------------------
+  C6: things, old, hate, jacko, jacko attacko
+  Size: 37  |  FP: 0  |  FN: 37
+----------------------------------------------------------------------
+  [1] dying lion sure doesn't feel as though he's completing some great cosmic circle
+  [2] should illinois require safety guardrails be placed around all bathtubs in the state?
+  [3] still time: the ps5s in this ancient cave painting foretelling the end of the earth look like some kind of unreleased ps5 slim edition
+  [4] drought reveals 113 million-year-old dinosaur tracks in texas
+
+----------------------------------------------------------------------
+  C7: facebook, shooting, world series, world, public
+  Size: 20  |  FP: 0  |  FN: 20
+----------------------------------------------------------------------
+  [1] scratch 'n win ballots to debut in november
+  [2] proposed legislation would require airline seats meet federal ass standards
+  [3] facebook cracking down on misinformation by warning users who share links from facebook
+  [4] case keenum wins redskins starting job with heartfelt ‘what i like most about football is’ essay
+
+======================================================================

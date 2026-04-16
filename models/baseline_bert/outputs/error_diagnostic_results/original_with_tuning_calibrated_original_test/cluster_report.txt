@@ -1,0 +1,77 @@
+MESO-LEVEL CLUSTER REPORT  (K=8)
+Mode: original_with_tuning_calibrated   Dataset: original_test
+======================================================================
+
+──────────────────────────────────────────────────────────────────────
+  C0: ban, fight, hurricane, birth, million
+  Size: 34  │  FP: 4  │  FN: 30
+──────────────────────────────────────────────────────────────────────
+  [1] overweight man receives 'lose weight fast' spam e-mail featuring his picture
+  [2] saudi arabia officially lifts ban on female monster truck rallies
+  [3] george and amal clooney pass out headphones on flight to block twins' crying
+  [4] germany disavows ties with the scorpions
+
+──────────────────────────────────────────────────────────────────────
+  C1: house, discover, life, years, man
+  Size: 35  │  FP: 35  │  FN: 0
+──────────────────────────────────────────────────────────────────────
+  [1] holiday season perfect for big change in your hair style
+  [2] 'take your kid to work day' results in npr newscast shutting down for full minute
+  [3] scientists discover tiniest hedgehog ever
+  [4] tesla announces major upgrade to original roadster
+
+──────────────────────────────────────────────────────────────────────
+  C2: trump, obama, blair, tony blair, tony
+  Size: 18  │  FP: 12  │  FN: 6
+──────────────────────────────────────────────────────────────────────
+  [1] michael bloomberg states support for bloomberg politics after report he's soured on star journalists
+  [2] michele bachmann figures why not, introduces homosexual-beheading bill
+  [3] study finds older dads may have 'geekier' sons
+  [4] trump administration denies president was behind jared kushner's promotion to 4-star general
+
+──────────────────────────────────────────────────────────────────────
+  C3: trump, republicans, lost 2011, 2011, response
+  Size: 29  │  FP: 0  │  FN: 29
+──────────────────────────────────────────────────────────────────────
+  [1] gop throws all financial support behind one candidate
+  [2] senator to try submitting rejected bill to canadian parliament
+  [3] gop leaders move goalposts on opposing trump to him being filmed masturbating on u.s. flag in arlington cemetery
+  [4] george clinton, della reese meet to discuss key hairstyle issues
+
+──────────────────────────────────────────────────────────────────────
+  C4: check, night, free, jim, thing
+  Size: 33  │  FP: 7  │  FN: 26
+──────────────────────────────────────────────────────────────────────
+  [1] travel channel blows its 'bed and breakfasts of new england' wad
+  [2] fellow millennial voters: no one owes us a damn thing
+  [3] little debbie conquers jenny craig in midnight showdown
+  [4] janelle monae: 'none of us are free until all of us are free'
+
+──────────────────────────────────────────────────────────────────────
+  C5: scientists, elusive mineral, elusive, scientists glimpse, glimpse
+  Size: 15  │  FP: 14  │  FN: 1
+──────────────────────────────────────────────────────────────────────
+  [1] mall santa crying hysterically in photo with toddler
+  [2] world's first successful penis transplant results in pregnancy
+  [3] curiosity captures 360-degree panorama from martian dune
+  [4] defiant londoners sit in the street for ramadan evening meal after high-rise fire
+
+──────────────────────────────────────────────────────────────────────
+  C6: rainbow, books, new, enviros, court
+  Size: 16  │  FP: 14  │  FN: 2
+──────────────────────────────────────────────────────────────────────
+  [1] mark wahlberg prays god will forgive him for this movie role
+  [2] activists petition cupcake kingdom to address adorable housing crisis
+  [3] ted cruz blasts new york times for keeping book off bestseller list
+  [4] beautiful nurse gives teen enema
+
+──────────────────────────────────────────────────────────────────────
+  C7: jr, dudes, die, coal, falls short
+  Size: 18  │  FP: 18  │  FN: 0
+──────────────────────────────────────────────────────────────────────
+  [1] 5 types of annoying people to avoid at all costs
+  [2] restaurant bartender leaves a single beer out to remember fallen soldier
+  [3] lisa turtle looks very different these days
+  [4] teen disfigured by catcaller's pipe attack
+
+======================================================================

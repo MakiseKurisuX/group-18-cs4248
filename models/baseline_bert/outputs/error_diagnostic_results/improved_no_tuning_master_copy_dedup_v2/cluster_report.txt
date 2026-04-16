@@ -1,0 +1,77 @@
+MESO-LEVEL CLUSTER REPORT  (K=8)
+Mode: improved_no_tuning   Dataset: master_copy_dedup_v2
+======================================================================
+
+──────────────────────────────────────────────────────────────────────
+  C0: man, new, woman, year, old
+  Size: 3447  │  FP: 3177  │  FN: 270
+──────────────────────────────────────────────────────────────────────
+  [1] darren wilson being guarded by off-duty cops
+  [2] court just found black victim of white supremacist assault not guilty of... assault
+  [3] blown tire forces morgan freeman's plane into unexpected landing
+  [4] greek coast guard finds body of refugee baby
+
+──────────────────────────────────────────────────────────────────────
+  C1: just, time, things, like, say
+  Size: 2595  │  FP: 115  │  FN: 2480
+──────────────────────────────────────────────────────────────────────
+  [1] courtney love screams at korean manicurist
+  [2] it's not too late to join jeansperience '07!
+  [3] tiger woods hits rock bottom, aside from being worth over $600 million
+  [4] you want to see some goddamn optimism?
+
+──────────────────────────────────────────────────────────────────────
+  C2: recipe, recipe day, day, chicken, salad
+  Size: 600  │  FP: 577  │  FN: 23
+──────────────────────────────────────────────────────────────────────
+  [1] recipe of the day: stuffed grape leaves
+  [2] passover chicken three ways
+  [3] applesauce agave banana bread
+  [4] recipe of the day: apple tart
+
+──────────────────────────────────────────────────────────────────────
+  C3: new, man, finds, trump, year
+  Size: 4019  │  FP: 4018  │  FN: 1
+──────────────────────────────────────────────────────────────────────
+  [1] women's rights museum could become newest national park
+  [2] tim kaine among growing number of americans against the death penalty
+  [3] man develops rare case of melanoma in the gums
+  [4] meeting with russian lawyer just latest alarming revelation about jared kushner
+
+──────────────────────────────────────────────────────────────────────
+  C4: new, day, time, divorce, just
+  Size: 4512  │  FP: 2964  │  FN: 1548
+──────────────────────────────────────────────────────────────────────
+  [1] golden state warriors remain undefeated
+  [2] theater plays 'fifty shades freed' instead of 'black panther' and it didn't go well
+  [3] rev. al sharpton: 'my mother believed in me when it didn't make sense'
+  [4] reporter crashes the debate and causes some good, old-fashioned chaos
+
+──────────────────────────────────────────────────────────────────────
+  C5: tips, onion, new, know, cons
+  Size: 3561  │  FP: 3  │  FN: 3558
+──────────────────────────────────────────────────────────────────────
+  [1] new year's resolutions
+  [2] russia invades ukraine: the first 100 days
+  [3] itinerary for obama's visit to israel
+  [4] benefits of running a clean campaign
+
+──────────────────────────────────────────────────────────────────────
+  C6: trump, new, report, house, obama
+  Size: 3265  │  FP: 2677  │  FN: 588
+──────────────────────────────────────────────────────────────────────
+  [1] tennessee house approves bill to make bible official state book
+  [2] michaels arts supply store warns of possible data breach
+  [3] scientists identify possible cause of huge ice shelf collapse
+  [4] hobby lobby to improve work performance through biblical punishments
+
+──────────────────────────────────────────────────────────────────────
+  C7: trump, obama, new, million, facebook
+  Size: 3496  │  FP: 75  │  FN: 3421
+──────────────────────────────────────────────────────────────────────
+  [1] soda tax suggested in california
+  [2] fed bans debit overdraft fees
+  [3] middle school teacher arrested for allowing students to have sex in classroom
+  [4] onion sports’ nfl week seven picks
+
+======================================================================

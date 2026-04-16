@@ -1,0 +1,77 @@
+MESO-LEVEL CLUSTER REPORT  (K=8)
+Mode: improved_no_tuning_calibrated   Dataset: original_test
+======================================================================
+
+──────────────────────────────────────────────────────────────────────
+  C0: ban, trump, gop, shooting, anchor
+  Size: 16  │  FP: 0  │  FN: 16
+──────────────────────────────────────────────────────────────────────
+  [1] 4 copy editors killed in ongoing ap style, chicago manual gang violence
+  [2] michael cohen granted prison work release for new job with trump 2020 campaign
+  [3] cnn releases photos of 3 obese mexican women suspected in boston bombing
+  [4] garroting survivors call for wire ban
+
+──────────────────────────────────────────────────────────────────────
+  C1: scientists, discover, life, man, films
+  Size: 36  │  FP: 36  │  FN: 0
+──────────────────────────────────────────────────────────────────────
+  [1] bionic fingertip restores amputee's sense of touch
+  [2] 95-year-old woman uses lottery winnings to join 21st century
+  [3] man records every detail of his life for 5 years
+  [4] gladys knight sues to remove name from chicken and waffle restaurant
+
+──────────────────────────────────────────────────────────────────────
+  C2: women, 10, new, 20, trump
+  Size: 22  │  FP: 22  │  FN: 0
+──────────────────────────────────────────────────────────────────────
+  [1] mark wahlberg prays god will forgive him for this movie role
+  [2] new anti-drug campaign thinks emojis will finally get teens to listen
+  [3] trump terrible 10 -- mooch improved edition
+  [4] joe arpaio revives racist obama birther conspiracy
+
+──────────────────────────────────────────────────────────────────────
+  C3: clinton, vote, key, million, america
+  Size: 42  │  FP: 0  │  FN: 42
+──────────────────────────────────────────────────────────────────────
+  [1] clinton goes back in time, teams up with golden-age clinton
+  [2] wildfires force colorado to airlift rocky mountains to safety
+  [3] prince harry, meghan markle debating between hawaiian luau- or 'x-files'-themed wedding
+  [4] income inequality emerges as key topic to avoid in 2014 elections
+
+──────────────────────────────────────────────────────────────────────
+  C4: russian, trump, resigns, protest, suspension
+  Size: 13  │  FP: 2  │  FN: 11
+──────────────────────────────────────────────────────────────────────
+  [1] linebacker faces suspension for genocide
+  [2] hillary clinton speech interrupted by black student activists
+  [3] gorillagram employee shot by white house security
+  [4] green party official caught embezzling campaign funds for dime bag
+
+──────────────────────────────────────────────────────────────────────
+  C5: emails, trump, new, rainbow, says
+  Size: 47  │  FP: 38  │  FN: 9
+──────────────────────────────────────────────────────────────────────
+  [1] stunning health benefits of cotton candy proposed
+  [2] mike pence takes oath of office as country's next vice president
+  [3] obama refutes allegation that he wiretapped trump tower during campaign
+  [4] canadian officials start to get handle on massive wildfire
+
+──────────────────────────────────────────────────────────────────────
+  C6: check deer, deer, check, box office, box
+  Size: 18  │  FP: 2  │  FN: 16
+──────────────────────────────────────────────────────────────────────
+  [1] aaron eckhart likes to make one frankenstein movie for them, one frankenstein movie for himself
+  [2] robbie krieger goes 51 minutes without mentioning jim morrison
+  [3] 'baywatch' officially flops as 'pirates' comes in first at the box office
+  [4] great, now it's turned into a whole big thing
+
+──────────────────────────────────────────────────────────────────────
+  C7: free, dad, books, aveage, teachers aveage
+  Size: 36  │  FP: 27  │  FN: 9
+──────────────────────────────────────────────────────────────────────
+  [1] george and amal clooney pass out headphones on flight to block twins' crying
+  [2] sweden to experiment with six-hour workday
+  [3] freddie prinze jr. recovers
+  [4] fictional books within books we wish were real
+
+======================================================================

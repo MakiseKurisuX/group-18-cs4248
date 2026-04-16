@@ -1,0 +1,23 @@
+{
+  "model_type": "bert",
+  "mode": "improved_no_tuning_calibrated",
+  "dataset": "master_copy_dedup_v2",
+  "num_examples": 251971,
+  "threshold": 0.34,
+  "output_path": "C:\\Users\\Admin\\Desktop\\Code\\CS4248\\CS4248-Group-18-Project\\models\\baseline_bert\\outputs\\predictions\\improved_no_tuning_calibrated_master_copy_dedup_v2_predictions.csv",
+  "metrics_path": "C:\\Users\\Admin\\Desktop\\Code\\CS4248\\CS4248-Group-18-Project\\models\\baseline_bert\\outputs\\metrics\\improved_no_tuning_calibrated_master_copy_dedup_v2_metrics.json",
+  "accuracy": 0.8942,
+  "precision": 0.6561,
+  "recall": 0.7212,
+  "f1": 0.6871,
+  "confusion_matrix": [
+    [
+      196055,
+      15338
+    ],
+    [
+      11314,
+      29264
+    ]
+  ]
+}

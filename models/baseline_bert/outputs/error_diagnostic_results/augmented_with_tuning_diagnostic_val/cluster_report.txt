@@ -1,0 +1,77 @@
+MESO-LEVEL CLUSTER REPORT  (K=8)
+Mode: augmented_with_tuning   Dataset: diagnostic_val
+======================================================================
+
+----------------------------------------------------------------------
+  C0: walmart, walmart apologizes, display, gun, gun display
+  Size: 7  |  FP: 0  |  FN: 7
+----------------------------------------------------------------------
+  [1] man with 90-year sentence for marijuana released from prison
+  [2] high schoolers given detention for cutting class during active shooting
+  [3] florida state university to phase out academic operations by 2010
+  [4] white house swaps with taliban to free u.s. soldier
+
+----------------------------------------------------------------------
+  C1: new, age, santa, doubling santa, doubling
+  Size: 45  |  FP: 43  |  FN: 2
+----------------------------------------------------------------------
+  [1] possibly tipsy man loves cheap costco beer so much, he made a commercial for it
+  [2] skinny, dreamy, apricot chicken
+  [3] split-decision pie pan lets you have two pies in one
+  [4] trump lauds tax cuts on road trip as most americans still don't see a benefit
+
+----------------------------------------------------------------------
+  C2: hate, nba, job, require, meet
+  Size: 21  |  FP: 0  |  FN: 21
+----------------------------------------------------------------------
+  [1] a's pitchers meet up at cool pitcher hangout called 'the strike zone' after game
+  [2] proposed legislation would require airline seats meet federal ass standards
+  [3] phillies hope to end 364-day world series drought
+  [4] scratch 'n win ballots to debut in november
+
+----------------------------------------------------------------------
+  C3: healthy, parade, parade passes, passes, worst
+  Size: 28  |  FP: 24  |  FN: 4
+----------------------------------------------------------------------
+  [1] isis calls for attacks on west during ramadan
+  [2] healthy heart may also mean healthy brain
+  [3] h&m introduces kiddie david beckham line, giving us the gift of adorable mini beckhams
+  [4] what kind of sick fuck would put a hook in a juicy squid where a fish could easily eat it?
+
+----------------------------------------------------------------------
+  C4: aid colon, recovery, colon, colon surgery, gum
+  Size: 4  |  FP: 0  |  FN: 4
+----------------------------------------------------------------------
+  [1] former viagra spokesman suspended for using performance-enhancing substances
+  [2] gary sheffield's agent warns interested teams not to tap glass
+  [3] gum may aid colon surgery recovery
+  [4] massachusetts mayors battle melatonin brownie
+
+----------------------------------------------------------------------
+  C5: film, versace, black, american, italian
+  Size: 9  |  FP: 7  |  FN: 2
+----------------------------------------------------------------------
+  [1] versace, m.i.a. team up for collaboration based on versace knockoffs
+  [2] scientist claims aliens hijacked probe
+  [3] fleetwood mac cancels tour in light of john mcvie's cancer treatment
+  [4] tough: the new tmnt game follows a european trip where the turtles realize their fervent italian-american pride has little in common with modern italian life
+
+----------------------------------------------------------------------
+  C6: things, old, year, won, believe
+  Size: 43  |  FP: 0  |  FN: 43
+----------------------------------------------------------------------
+  [1] netflix board of directors meets to decide if 'michael' is stream worthy
+  [2] time flies when you’re feeding an addiction to internet pornography over which you no longer have any control
+  [3] you don’t get to be as old as i am without knowing a few things about basic shapes and colors
+  [4] facebook adds more than 50 new gender options
+
+----------------------------------------------------------------------
+  C7: cancels flight, dead delta, flight midair, delta cancels, delta
+  Size: 9  |  FP: 3  |  FN: 6
+----------------------------------------------------------------------
+  [1] 'today i die,' says gang leader who killed self after shooting firefighter
+  [2] brave mountain lion fends off group of hikers
+  [3] hundreds of cane-wielding demonstrators pull governor into kickline to protest broadway shutdown
+  [4] bbc host reveals shocking homemade gift he once gave a girlfriend
+
+======================================================================

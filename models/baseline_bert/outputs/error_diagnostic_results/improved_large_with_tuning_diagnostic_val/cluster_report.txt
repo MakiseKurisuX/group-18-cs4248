@@ -1,0 +1,76 @@
+MESO-LEVEL CLUSTER REPORT  (K=8)
+Mode: improved_large_with_tuning   Dataset: diagnostic_val
+======================================================================
+
+----------------------------------------------------------------------
+  C0: old, year, won, mind, jacko
+  Size: 37  |  FP: 1  |  FN: 36
+----------------------------------------------------------------------
+  [1] my great-grandfather came to this country with nothing but $10 in his pocket, $300,000 in his bank account, and a dream
+  [2] as long as you're under my roof, you'll play by my monopoly rules
+  [3] orioles' top prospect wins world series in first major-league at bat
+  [4] the tree of liberty must be refreshed with the blood of air show pilots
+
+----------------------------------------------------------------------
+  C1: trump, versace, clinton, judges, collaboration
+  Size: 33  |  FP: 33  |  FN: 0
+----------------------------------------------------------------------
+  [1] tuba player is easily scared apparently
+  [2] nation’s top teachers confront betsy devos in private meeting
+  [3] margherita missoni pregnant with first child with husband eugenio amos
+  [4] first-grader judges 2013 oscar-nominated movies by their posters
+
+----------------------------------------------------------------------
+  C2: like, hate, low, people, help
+  Size: 32  |  FP: 7  |  FN: 25
+----------------------------------------------------------------------
+  [1] if someone tried to burn my village, i'd be like, 'fuck you'
+  [2] 'you're the worst,' the darkest rom-com on television, returns
+  [3] drought reveals 113 million-year-old dinosaur tracks in texas
+  [4] low-carb diet linked to dying young
+
+----------------------------------------------------------------------
+  C3: kids, photo, kitty, ordered, common
+  Size: 18  |  FP: 16  |  FN: 2
+----------------------------------------------------------------------
+  [1] fema reportedly took the 5 million masks ordered for veterans to send to stockpile
+  [2] tough: the new tmnt game follows a european trip where the turtles realize their fervent italian-american pride has little in common with modern italian life
+  [3] baggage handler gets locked inside plane's cargo area during flight
+  [4] j.j. watt adorably helps woman tell her husband she's expecting
+
+----------------------------------------------------------------------
+  C4: skinny, skinny dreamy, dreamy apricot, dreamy, chicken
+  Size: 3  |  FP: 3  |  FN: 0
+----------------------------------------------------------------------
+  [1] righty mcrighteous-son and the bane of being right
+  [2] h&m introduces kiddie david beckham line, giving us the gift of adorable mini beckhams
+  [3] skinny, dreamy, apricot chicken
+
+----------------------------------------------------------------------
+  C5: season, bush won, new football, bush, won new
+  Size: 11  |  FP: 0  |  FN: 11
+----------------------------------------------------------------------
+  [1] fan pissed 15-yard penalty called on hit that resulted in player being carted off field on stretcher
+  [2] scratch 'n win ballots to debut in november
+  [3] pga holds quick tournament with tiger woods out of town
+  [4] congress accidentally approves arts funding
+
+----------------------------------------------------------------------
+  C6: north, north korea, korea, marines expanding, expanding
+  Size: 5  |  FP: 5  |  FN: 0
+----------------------------------------------------------------------
+  [1] north korea revamps, restarts nuclear bomb fuel production plants
+  [2] house votes down proposal to end 2001 war authorization
+  [3] marines expanding use of meditation training
+  [4] hurricane nicole strengthens into dangerous category 4 storm
+
+----------------------------------------------------------------------
+  C7: step, interested, cover, time, em
+  Size: 19  |  FP: 12  |  FN: 7
+----------------------------------------------------------------------
+  [1] embarrassing gaffe: ‘resident evil village’ actually features more of a town than a village if you’re going by the technical definition
+  [2] lp cover art: robert penney reimagines modern songs via vintage vinyl artwork (photos)
+  [3] iran's nuclear operation revealed to be cover for greatest roller coaster ever
+  [4] sam nunberg: 'i'm not having a meltdown'
+
+======================================================================

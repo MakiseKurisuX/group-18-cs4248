@@ -1,0 +1,77 @@
+MESO-LEVEL CLUSTER REPORT  (K=8)
+Mode: original_no_tuning_calibrated   Dataset: original_test
+======================================================================
+
+──────────────────────────────────────────────────────────────────────
+  C0: deer, check deer, check, goes bananas, herbie goes
+  Size: 10  │  FP: 0  │  FN: 10
+──────────────────────────────────────────────────────────────────────
+  [1] angelina jolie coming for your baby
+  [2] north dakota flooding reminds people of north dakota's existence
+  [3] kite flyer in the zone
+  [4] new candy to hum and glow in mouths
+
+──────────────────────────────────────────────────────────────────────
+  C1: attack, shot, death, office, time
+  Size: 37  │  FP: 25  │  FN: 12
+──────────────────────────────────────────────────────────────────────
+  [1] oops: hot mic broadcasts al roker going to the bathroom
+  [2] reddit bans page hosting celebrity nudes
+  [3] joe arpaio revives racist obama birther conspiracy
+  [4] queen elizabeth rushed to hospital for royal blood transfusion
+
+──────────────────────────────────────────────────────────────────────
+  C2: clinton, lost, lost 2011, 2011, new
+  Size: 34  │  FP: 1  │  FN: 33
+──────────────────────────────────────────────────────────────────────
+  [1] 20th century fox green-lights 'united 93 vs. predator'
+  [2] zagat editor a 'nice guy' but 'kind of boring'
+  [3] quentin tarantino breaks three-day media silence
+  [4] hurricane bitch hits florida
+
+──────────────────────────────────────────────────────────────────────
+  C3: life, scientists, discover, years, man
+  Size: 30  │  FP: 30  │  FN: 0
+──────────────────────────────────────────────────────────────────────
+  [1] learning right gives you might
+  [2] 'take your kid to work day' results in npr newscast shutting down for full minute
+  [3] scientists discover tiniest hedgehog ever
+  [4] lots of parents know this scenario
+
+──────────────────────────────────────────────────────────────────────
+  C4: rainbow, dad, free, actually, teen
+  Size: 26  │  FP: 17  │  FN: 9
+──────────────────────────────────────────────────────────────────────
+  [1] rev. run on being a tv dad: 'it's important to me'
+  [2] janelle monae: 'none of us are free until all of us are free'
+  [3] millennium actually starts in 2001, terrorists note
+  [4] beautiful nurse gives teen enema
+
+──────────────────────────────────────────────────────────────────────
+  C5: trump, ban, gop, senate, million
+  Size: 54  │  FP: 3  │  FN: 51
+──────────────────────────────────────────────────────────────────────
+  [1] franz ferdinand frontman shot by gavrilo princip bassist
+  [2] russian beef shortage traced to boris yeltsin
+  [3] gop throws all financial support behind one candidate
+  [4] faa to ban plane crashes
+
+──────────────────────────────────────────────────────────────────────
+  C6: frankenstein, frankenstein movie, movie, new, remembered
+  Size: 6  │  FP: 0  │  FN: 6
+──────────────────────────────────────────────────────────────────────
+  [1] aaron eckhart likes to make one frankenstein movie for them, one frankenstein movie for himself
+  [2] ohio state hires jim tressel as head football coach
+  [3] luther vandross remembered, if only for one night
+  [4] new york to host 1998 ill-will games
+
+──────────────────────────────────────────────────────────────────────
+  C7: house, cause, enviros, millions, meeting
+  Size: 22  │  FP: 22  │  FN: 0
+──────────────────────────────────────────────────────────────────────
+  [1] patient's teeth could be fix for common cause of blindness
+  [2] son possibly made withdrawal with dead mom
+  [3] sweden to experiment with six-hour workday
+  [4] restaurant bartender leaves a single beer out to remember fallen soldier
+
+======================================================================

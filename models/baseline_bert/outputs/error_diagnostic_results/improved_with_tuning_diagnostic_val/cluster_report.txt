@@ -1,0 +1,75 @@
+MESO-LEVEL CLUSTER REPORT  (K=8)
+Mode: improved_with_tuning   Dataset: diagnostic_val
+======================================================================
+
+----------------------------------------------------------------------
+  C0: stock, new york, skyrockets coronavirus, skyrockets, york stock
+  Size: 2  |  FP: 0  |  FN: 2
+----------------------------------------------------------------------
+  [1] officials say outbreak of australian wildfire may have spread from engulfed passenger traveling from u.s.
+  [2] dow skyrockets after coronavirus begins trading on new york stock exchange
+
+----------------------------------------------------------------------
+  C1: new, healthy, house, film, chicken
+  Size: 61  |  FP: 59  |  FN: 2
+----------------------------------------------------------------------
+  [1] california raises smoking age to 21
+  [2] manolo blahnik collaboration not going to happen, disappointing shoe lovers everywhere
+  [3] hillary clinton demands fbi release any information it has on new email investigation
+  [4] gay couple claims russia accidentally recognized their marriage
+
+----------------------------------------------------------------------
+  C2: believe, mind, mind believe, make, need
+  Size: 24  |  FP: 0  |  FN: 24
+----------------------------------------------------------------------
+  [1] my great-grandfather came to this country with nothing but $10 in his pocket, $300,000 in his bank account, and a dream
+  [2] time flies when you’re feeding an addiction to internet pornography over which you no longer have any control
+  [3] i'm gonna get me a wii if it kills me
+  [4] florida state university to phase out academic operations by 2010
+
+----------------------------------------------------------------------
+  C3: jacko, jacko attacko, attacko, nunberg having, eating
+  Size: 11  |  FP: 1  |  FN: 10
+----------------------------------------------------------------------
+  [1] pope francis: ‘nobody out-molests the catholic church’
+  [2] sam nunberg: 'i'm not having a meltdown'
+  [3] deal alert: the quantity of raw plastic and silicon that makes up an xbox series x can be yours for just $8.27
+  [4] jacko is on the attacko!
+
+----------------------------------------------------------------------
+  C4: giant, ancient giant, camel arctic, arctic, camel
+  Size: 7  |  FP: 0  |  FN: 7
+----------------------------------------------------------------------
+  [1] syracuse leaves big east for woman named 'misti'
+  [2] man with 90-year sentence for marijuana released from prison
+  [3] lobster diver survives being trapped in whale’s mouth
+  [4] high schoolers given detention for cutting class during active shooting
+
+----------------------------------------------------------------------
+  C5: calls, nepal calls, nepal, nba, campaign hires
+  Size: 16  |  FP: 8  |  FN: 8
+----------------------------------------------------------------------
+  [1] hurricane nicole strengthens into dangerous category 4 storm
+  [2] tough: the new tmnt game follows a european trip where the turtles realize their fervent italian-american pride has little in common with modern italian life
+  [3] nepal calls: part three
+  [4] investigators determine air france disaster caused by plane crash
+
+----------------------------------------------------------------------
+  C6: things, old, won, hate, people
+  Size: 23  |  FP: 0  |  FN: 23
+----------------------------------------------------------------------
+  [1] so you think you can win a presidential medal of freedom?
+  [2] could you pass the mental competency test for politicians over 75?
+  [3] the pros and cons of letting children die
+  [4] ‘dr. mario’ has given too many people a warped idea of the medical profession
+
+----------------------------------------------------------------------
+  C7: em, silently, silently going, going imagine, neighbors silently
+  Size: 9  |  FP: 1  |  FN: 8
+----------------------------------------------------------------------
+  [1] proposed legislation would require airline seats meet federal ass standards
+  [2] syria conflict intensifies as bears enter war
+  [3] police pursue person of interest in 42-year-old 'valentine's day killings' cold case
+  [4] volunteers rush to clean up glistening hunks after massive baby oil spill
+
+======================================================================

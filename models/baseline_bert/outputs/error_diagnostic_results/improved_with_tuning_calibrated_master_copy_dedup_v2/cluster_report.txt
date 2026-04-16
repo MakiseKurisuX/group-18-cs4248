@@ -1,0 +1,77 @@
+MESO-LEVEL CLUSTER REPORT  (K=8)
+Mode: improved_with_tuning_calibrated   Dataset: master_copy_dedup_v2
+======================================================================
+
+──────────────────────────────────────────────────────────────────────
+  C0: new, trump, report, obama, house
+  Size: 2027  │  FP: 1971  │  FN: 56
+──────────────────────────────────────────────────────────────────────
+  [1] san francisco crack pipe exchange program plans expansion
+  [2] new york court redefines what it means to be a parent
+  [3] zookeepers kill 2 lions to save man who entered enclosure
+  [4] boy scouts rescue ann curry from mountain
+
+──────────────────────────────────────────────────────────────────────
+  C1: tips, know, pros cons, pros, cons
+  Size: 4413  │  FP: 0  │  FN: 4413
+──────────────────────────────────────────────────────────────────────
+  [1] job interview tips
+  [2] 2013 in international news
+  [3] the minutemen
+  [4] 2016 in the economy
+
+──────────────────────────────────────────────────────────────────────
+  C2: new, day, trump, man, obama
+  Size: 4523  │  FP: 4497  │  FN: 26
+──────────────────────────────────────────────────────────────────────
+  [1] off-shorers should shut up
+  [2] white house press secretary rips reporters in first briefing room appearance
+  [3] moving-day meals
+  [4] sean spicer struggles to provide any actual information at press briefing
+
+──────────────────────────────────────────────────────────────────────
+  C3: trump, new, nfl, house, world
+  Size: 1849  │  FP: 294  │  FN: 1555
+──────────────────────────────────────────────────────────────────────
+  [1] merck halts development of coronavirus vaccines
+  [2] justin bieber apologizes to clinton for insults
+  [3] venomous sharks found in once ‘biologically dead’ thames river
+  [4] facebook ‘ask’ feature lets friends inquire about relationships
+
+──────────────────────────────────────────────────────────────────────
+  C4: new, man, year, old, year old
+  Size: 3921  │  FP: 3920  │  FN: 1
+──────────────────────────────────────────────────────────────────────
+  [1] fiscal cliff molehill masks climate cliff fissure
+  [2] best-selling author shares secrets to living longer the blue zone way
+  [3] 12 strangers begin six-week class toward healthier eating
+  [4] badass florida man protests x-mas tree inspection with america
+
+──────────────────────────────────────────────────────────────────────
+  C5: trump, new, obama, arrested, nfl
+  Size: 2259  │  FP: 0  │  FN: 2259
+──────────────────────────────────────────────────────────────────────
+  [1] zimmerman charged with second-degree murder
+  [2] jerry jones blasts media for trying to make segregation look bad
+  [3] woman charged $700 after waiting in er for hours without receiving treatment
+  [4] most anticipated bowl games
+
+──────────────────────────────────────────────────────────────────────
+  C6: new, day, recipe, recipe day, man
+  Size: 2032  │  FP: 1676  │  FN: 356
+──────────────────────────────────────────────────────────────────────
+  [1] alert: you're more likely to get hit by a car after this weekend
+  [2] the white house: who's listening in?
+  [3] onion crying 'cures', from gum-chewing to goggle-wearing, put to the test
+  [4] recipe of the day: steak sandwich with fried onions
+
+──────────────────────────────────────────────────────────────────────
+  C7: onion, just, new, people, time
+  Size: 1727  │  FP: 67  │  FN: 1660
+──────────────────────────────────────────────────────────────────────
+  [1] top benefits of going paperless
+  [2] storage wars
+  [3] married couples have similar immune systems
+  [4] i am but a vessel through which god drones on indefinitely
+
+======================================================================

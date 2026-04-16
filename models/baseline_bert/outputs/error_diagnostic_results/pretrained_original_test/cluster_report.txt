@@ -1,0 +1,77 @@
+MESO-LEVEL CLUSTER REPORT  (K=8)
+Mode: pretrained   Dataset: original_test
+======================================================================
+
+──────────────────────────────────────────────────────────────────────
+  C0: video, new, trump, tweets, watch
+  Size: 198  │  FP: 178  │  FN: 20
+──────────────────────────────────────────────────────────────────────
+  [1] two queens on what it's like to live and breathe drag in wisconsin and new york
+  [2] monica says lady gaga is right about the 'male-dominated' music industry
+  [3] colbert wants to turn nyc subway rides into a new and terrible punishment
+  [4] james cameron cried the first time he heard james horner's 'titanic' theme
+
+──────────────────────────────────────────────────────────────────────
+  C1: man, report, area, local, great
+  Size: 161  │  FP: 84  │  FN: 77
+──────────────────────────────────────────────────────────────────────
+  [1] documentary a scathing indictment of director's filmmaking skills
+  [2] stunning health benefits of cotton candy proposed
+  [3] report: 99% of employees would use boss as human shield in event of workplace attack
+  [4] pep talk laced with personal threats
+
+──────────────────────────────────────────────────────────────────────
+  C2: women, new, black, guide, people
+  Size: 171  │  FP: 159  │  FN: 12
+──────────────────────────────────────────────────────────────────────
+  [1] our 16 favorite arts, books and culture stories from 2015
+  [2] daily meditation: the call of adventure
+  [3] 'mudbound' oscar nominations place netflix in big leagues
+  [4] cancer, cinema, crowdfunding and twitter
+
+──────────────────────────────────────────────────────────────────────
+  C3: man, woman, police, time, just
+  Size: 207  │  FP: 99  │  FN: 108
+──────────────────────────────────────────────────────────────────────
+  [1] migrant boat to europe sinks, some 200 feared dead
+  [2] police fatally shoot black man in san diego suburb, sparking protests
+  [3] shameless coworker doing nothing to conceal clearly flaccid penis lying beneath khakis
+  [4] time is 'running out' as great barrier reef hit by another mass bleaching
+
+──────────────────────────────────────────────────────────────────────
+  C4: trump, donald trump, donald, obama, election
+  Size: 189  │  FP: 182  │  FN: 7
+──────────────────────────────────────────────────────────────────────
+  [1] republicans reject disclosing findings on trump's business conflicts, russia ties
+  [2] woman sneaks in anti-ted cruz message during photo with ted cruz
+  [3] report: new york state senate leader to be arrested for corruption
+  [4] joe arpaio revives racist obama birther conspiracy
+
+──────────────────────────────────────────────────────────────────────
+  C5: things, life, summer, need, love
+  Size: 256  │  FP: 240  │  FN: 16
+──────────────────────────────────────────────────────────────────────
+  [1] the science-backed ways that  movement boosts your mood
+  [2] report: most americans' retirement plans consist of hoping their random junk turns out to be collector's item worth millions
+  [3] you're forgetting about the one backyard feature that can extend your summer
+  [4] looking for happiness in all the wrong places
+
+──────────────────────────────────────────────────────────────────────
+  C6: trump, america, new, time, obama
+  Size: 193  │  FP: 179  │  FN: 14
+──────────────────────────────────────────────────────────────────────
+  [1] larry nassar: 'who among us hasn't made a mistake repeatedly and with wild, shameless abandon?'
+  [2] what aarp wants to hear most from the presidential candidates
+  [3] michael bloomberg's 2016 ambitions may shake up the race -- and his media company
+  [4] revolutionary advances in abortion access: why not in the u.s., too?
+
+──────────────────────────────────────────────────────────────────────
+  C7: world, day, coming, really, box office
+  Size: 160  │  FP: 141  │  FN: 19
+──────────────────────────────────────────────────────────────────────
+  [1] rex tillerson travels to turkey to be honored by the oil industry
+  [2] elon musk is ready to conquer mars
+  [3] oregon may just be the most stunning state in america. here's proof.
+  [4] china refuses overseas treatment for critically ill nobel peace prize winner
+
+======================================================================

@@ -1,0 +1,24 @@
+{
+  "model_type": "bert",
+  "mode": "improved_with_tuning_calibrated",
+  "dataset": "diagnostic_val",
+  "num_examples": 1825,
+  "threshold": 0.15,
+  "evaluation_style": "posthoc",
+  "output_path": "C:\\Users\\Admin\\Desktop\\Code\\CS4248\\CS4248-Group-18-Project\\models\\baseline_bert\\outputs\\predictions\\improved_with_tuning_calibrated_diagnostic_val_predictions.csv",
+  "metrics_path": "C:\\Users\\Admin\\Desktop\\Code\\CS4248\\CS4248-Group-18-Project\\models\\baseline_bert\\outputs\\metrics\\improved_with_tuning_calibrated_diagnostic_val_metrics.json",
+  "accuracy": 0.9145,
+  "precision": 0.8752,
+  "recall": 0.8695,
+  "f1": 0.8723,
+  "confusion_matrix": [
+    [
+      1136,
+      76
+    ],
+    [
+      80,
+      533
+    ]
+  ]
+}

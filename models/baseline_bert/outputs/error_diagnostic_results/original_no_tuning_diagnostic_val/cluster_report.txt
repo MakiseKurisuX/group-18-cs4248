@@ -1,0 +1,77 @@
+MESO-LEVEL CLUSTER REPORT  (K=8)
+Mode: original_no_tuning   Dataset: diagnostic_val
+======================================================================
+
+----------------------------------------------------------------------
+  C0: things, won, love, year, old
+  Size: 27  |  FP: 0  |  FN: 27
+----------------------------------------------------------------------
+  [1] as long as you're under my roof, you'll play by my monopoly rules
+  [2] i didn't become a secret service agent for the jimmy carter midnight to 6 a.m. shift
+  [3] ‘dr. mario’ has given too many people a warped idea of the medical profession
+  [4] in this family we maintain the ways of the old suburb
+
+----------------------------------------------------------------------
+  C1: rocks black, rocks, kardashian, kardashian rocks, kourtney
+  Size: 5  |  FP: 5  |  FN: 0
+----------------------------------------------------------------------
+  [1] clinton says trump behaving like a demagogue
+  [2] pregnant kourtney kardashian rocks all black everything
+  [3] monica lewinsky breaks decade-long silence
+  [4] marvel releases full-sized teaser for 'ant-man' trailer
+
+----------------------------------------------------------------------
+  C2: public, shooting, victims, week shooting, victims sought
+  Size: 22  |  FP: 1  |  FN: 21
+----------------------------------------------------------------------
+  [1] gum may aid colon surgery recovery
+  [2] seattle installing ping-pong tables in public parks to deter crime
+  [3] high schoolers given detention for cutting class during active shooting
+  [4] california raises smoking age to 21
+
+----------------------------------------------------------------------
+  C3: americans, dollar, years, trump, ribbons
+  Size: 27  |  FP: 27  |  FN: 0
+----------------------------------------------------------------------
+  [1] civilians in rebel-held aleppo breathe sigh of relief: ‘now, we can go outside’
+  [2] unimpressed cat is not at all interested in your magic trick
+  [3] national alzheimer's plan sets deadline to find treatments for memory-robbing disease
+  [4] 75 percent of workers feel tired 'most days'
+
+----------------------------------------------------------------------
+  C4: hate, jacko attacko, jacko, mind, mind believe
+  Size: 27  |  FP: 0  |  FN: 27
+----------------------------------------------------------------------
+  [1] i'll thank you not to call my collection of sequential-art erotica 'dirty comics'
+  [2] could you pass the mental competency test for politicians over 75?
+  [3] we're investing so much in alternative fuels, sometimes we almost forget to pump oil!
+  [4] my kids are learning how to drive...me up the wall!
+
+----------------------------------------------------------------------
+  C5: new, olympics, campaign, rubio, rubio campaign
+  Size: 27  |  FP: 17  |  FN: 10
+----------------------------------------------------------------------
+  [1] man's breast friend: who pays for plastic surgery in divorce?
+  [2] kim jong un hails north korea rocket engine test success
+  [3] nazi-themed trump billboard to stay up as long as he's president, owner says
+  [4] margherita missoni pregnant with first child with husband eugenio amos
+
+----------------------------------------------------------------------
+  C6: making, community, virtual community, virtual, community survive
+  Size: 21  |  FP: 8  |  FN: 13
+----------------------------------------------------------------------
+  [1] volunteers rush to clean up glistening hunks after massive baby oil spill
+  [2] thousands of athletes who will disgrace countries eagerly training for winter olympics
+  [3] starbucks partners with spotify to ‘make the barista the dj’
+  [4] embarrassing gaffe: ‘resident evil village’ actually features more of a town than a village if you’re going by the technical definition
+
+----------------------------------------------------------------------
+  C7: nfl, flight, season, bears, world series
+  Size: 18  |  FP: 0  |  FN: 18
+----------------------------------------------------------------------
+  [1] a's pitchers meet up at cool pitcher hangout called 'the strike zone' after game
+  [2] orioles' top prospect wins world series in first major-league at bat
+  [3] 133 dead as delta cancels flight in midair
+  [4] conservationists tout successful restoration efforts after dolphins spotted on mars for first time since 1973
+
+======================================================================
