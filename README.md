@@ -20,3 +20,16 @@ During the project, we experimented with several transformer models for the sarc
 - **DeBERTa**
 
 Results of the following models can be seen in our report.
+
+## filter_dataset.py
+
+Filters sarcastic headlines using **Claude Haiku** (`claude-haiku-4-5-20251001`) to enforce the project's scoping decision: keeping only headlines whose sarcasm is detectable from linguistic signals alone, and dropping those that require world knowledge, missing visual context, or cultural background to understand.
+
+Headlines are sent in batches of 100 with structured outputs via `instructor` and Pydantic validation. The script supports checkpointing and exponential-backoff retries, so it can resume safely if interrupted. Non-sarcastic headlines skip the API entirely and are automatically kept.
+
+Applied to all new data entering the pipeline (augmentation and evaluation sets). The original training data is left unfiltered. See Appendix A for the full prompt.
+
+```bash
+export ANTHROPIC_API_KEY=your_key_here
+python filter_dataset.py
+```
