@@ -1,0 +1,11 @@
+pandas
+torch
+transformers[torch]
+scikit-learn
+evaluate
+tqdm
+numpy
+huggingface_hub
+accelerate
+optuna
+seaborn
