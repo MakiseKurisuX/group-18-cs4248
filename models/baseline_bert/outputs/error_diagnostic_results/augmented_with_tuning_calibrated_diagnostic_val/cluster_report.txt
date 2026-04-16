@@ -1,0 +1,77 @@
+MESO-LEVEL CLUSTER REPORT  (K=8)
+Mode: augmented_with_tuning_calibrated   Dataset: diagnostic_val
+======================================================================
+
+----------------------------------------------------------------------
+  C0: passes, black, parade, parade passes, worst
+  Size: 21  |  FP: 17  |  FN: 4
+----------------------------------------------------------------------
+  [1] dress codes blame the victim
+  [2] goddamn it, the neighbors are silently going at it again, i imagine
+  [3] blac chyna lashes out at haters criticizing her casual pregnancy look
+  [4] janet waldo, voice of judy jetson, dead at 96
+
+----------------------------------------------------------------------
+  C1: hate, state, require, hate hate, know
+  Size: 21  |  FP: 1  |  FN: 20
+----------------------------------------------------------------------
+  [1] gum may aid colon surgery recovery
+  [2] florida state university to phase out academic operations by 2010
+  [3] you don’t get to be as old as i am without knowing a few things about basic shapes and colors
+  [4] scratch 'n win ballots to debut in november
+
+----------------------------------------------------------------------
+  C2: healthy, doubling santa, santa, doubling, campaign
+  Size: 28  |  FP: 28  |  FN: 0
+----------------------------------------------------------------------
+  [1] chocochicken in l.a. will serve chocolate-flavored fried chicken
+  [2] as nation stays home, early indicators suggest rise in domestic violence killings
+  [3] company buys $8000 horse lamp by front design for lobby (photo)
+  [4] hyundai 2012 veloster recall affects 13,500 cars
+
+----------------------------------------------------------------------
+  C3: things, old, year, house, won
+  Size: 44  |  FP: 0  |  FN: 44
+----------------------------------------------------------------------
+  [1] in this family we maintain the ways of the old suburb
+  [2] fans of green screens, incredibly fake-looking things express love for modern cinema
+  [3] time flies when you’re feeding an addiction to internet pornography over which you no longer have any control
+  [4] i should not be allowed to say the following things about america
+
+----------------------------------------------------------------------
+  C4: dog, giant camel, giant, camel arctic, camel
+  Size: 6  |  FP: 3  |  FN: 3
+----------------------------------------------------------------------
+  [1] animal shelter celebrates when all of its dogs are adopted in time for christmas
+  [2] brave mountain lion fends off group of hikers
+  [3] ancient giant camel found in arctic
+  [4] adorable couple of 70 years shares key to marital bliss
+
+----------------------------------------------------------------------
+  C5: dollar, million, virtual community, community survive, community
+  Size: 25  |  FP: 25  |  FN: 0
+----------------------------------------------------------------------
+  [1] amsterdam prepares to cut some ribbons
+  [2] split-decision pie pan lets you have two pies in one
+  [3] jetblue event raises question of unstable approach to hiring
+  [4] tuba player is easily scared apparently
+
+----------------------------------------------------------------------
+  C6: cancer, virus, versace, planet, life planet
+  Size: 12  |  FP: 12  |  FN: 0
+----------------------------------------------------------------------
+  [1] after bloody coup attempt, erdogan vows retribution
+  [2] life on planet cancer
+  [3] ebola virus lasts in semen for up to 565 days
+  [4] versace, m.i.a. team up for collaboration based on versace knockoffs
+
+----------------------------------------------------------------------
+  C7: film, american, game, teams interested, nba teams
+  Size: 15  |  FP: 6  |  FN: 9
+----------------------------------------------------------------------
+  [1] american black film festival announces 2016 film lineup
+  [2] mesmerizing deep ocean 'symphony' finally identified
+  [3] a's pitchers meet up at cool pitcher hangout called 'the strike zone' after game
+  [4] thousands of athletes who will disgrace countries eagerly training for winter olympics
+
+======================================================================

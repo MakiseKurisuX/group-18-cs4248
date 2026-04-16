@@ -1,0 +1,77 @@
+MESO-LEVEL CLUSTER REPORT  (K=8)
+Mode: original_no_tuning_calibrated   Dataset: master_copy_dedup_v2
+======================================================================
+
+──────────────────────────────────────────────────────────────────────
+  C0: new, man, trump, finds, house
+  Size: 3606  │  FP: 3606  │  FN: 0
+──────────────────────────────────────────────────────────────────────
+  [1] dividends of a difficult mind
+  [2] scientists to name tiny, newly discovered fish after obama
+  [3] state of the union address taking place tuesday evening
+  [4] virgin gets bionic penis after childhood tragedy
+
+──────────────────────────────────────────────────────────────────────
+  C1: tips, onion, know, new, pros cons
+  Size: 4272  │  FP: 3  │  FN: 4269
+──────────────────────────────────────────────────────────────────────
+  [1] how political polling works
+  [2] tips for winning escape rooms
+  [3] what to tell a 10-year-old who has been denied an abortion
+  [4] innovations in public transportation
+
+──────────────────────────────────────────────────────────────────────
+  C2: trump, obama, new, explain, million
+  Size: 2411  │  FP: 16  │  FN: 2395
+──────────────────────────────────────────────────────────────────────
+  [1] painkiller overdose deaths at record high
+  [2] madoff pleads guilty to fraud
+  [3] suicide bombings in the u.s.?
+  [4] karl rove accused of throwing midterm elections
+
+──────────────────────────────────────────────────────────────────────
+  C3: new, nfl, million, trump, world
+  Size: 2569  │  FP: 427  │  FN: 2142
+──────────────────────────────────────────────────────────────────────
+  [1] 'the last jedi' has second-biggest opening of all times
+  [2] japan ambassador rahm emanuel asks new hosts for best black site recommendations
+  [3] biggest snubs in oscars history
+  [4] snowstorm in chicago delays hundreds of morning murders
+
+──────────────────────────────────────────────────────────────────────
+  C4: trump, obama, report, new, house
+  Size: 1615  │  FP: 1201  │  FN: 414
+──────────────────────────────────────────────────────────────────────
+  [1] environmental integrity project report examines coal plants' costs
+  [2] trump loses last election appeal
+  [3] report: russian tankers fueled north korea
+  [4] suspect package forces evacuation of manchester united soccer stadium
+
+──────────────────────────────────────────────────────────────────────
+  C5: just, time, like, going, people
+  Size: 2542  │  FP: 405  │  FN: 2137
+──────────────────────────────────────────────────────────────────────
+  [1] bed monsters
+  [2] 2019 second-hottest year on record
+  [3] nasa receives info on jupiter's large helium deposits from juno probe's squeaky, high-pitched transmission<em></em>
+  [4] and then they fall in the pool
+
+──────────────────────────────────────────────────────────────────────
+  C6: man, new, woman, study, report
+  Size: 2191  │  FP: 2049  │  FN: 142
+──────────────────────────────────────────────────────────────────────
+  [1] aziz ansari becomes first asian-american to win golden globe for best actor in tv show
+  [2] black u.s. babies still more likely to die than white infants
+  [3] note on napkin says thief broke into car only to steal kit kat
+  [4] police probe reports of armed creepy clowns scaring children
+
+──────────────────────────────────────────────────────────────────────
+  C7: new, day, just, time, man
+  Size: 3230  │  FP: 3003  │  FN: 227
+──────────────────────────────────────────────────────────────────────
+  [1] ‘i am legend’ screenwriter debunks vaccine conspiracy involving film once and for all
+  [2] lebron james just wishes the cavs were as hungry as the warriors
+  [3] truth serum makes conan tell us everything
+  [4] billie eilish, lizzo win big at 62nd annual grammys
+
+======================================================================

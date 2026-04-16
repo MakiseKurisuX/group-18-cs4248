@@ -1,0 +1,77 @@
+MESO-LEVEL CLUSTER REPORT  (K=8)
+Mode: original_no_tuning   Dataset: master_copy_dedup_v2
+======================================================================
+
+──────────────────────────────────────────────────────────────────────
+  C0: new, man, day, year, old
+  Size: 3028  │  FP: 2923  │  FN: 105
+──────────────────────────────────────────────────────────────────────
+  [1] celebrity chefs turn leftovers at olympics into 5,000 meals a day for poor
+  [2] jimmy fallon loses it after on-air flub of 'baby got back'
+  [3] millennials in china embrace communal living boom
+  [4] disney recalls darth vader baby wear over choking fear
+
+──────────────────────────────────────────────────────────────────────
+  C1: onion, new, cons, pros cons, pros
+  Size: 2592  │  FP: 3  │  FN: 2589
+──────────────────────────────────────────────────────────────────────
+  [1] we must preserve the earth's dwindling resources for my five children
+  [2] how to save california
+  [3] a timeline of mass protests in u.s. history
+  [4] christie’s auctions off stephen hawking’s wheelchair, thesis paper
+
+──────────────────────────────────────────────────────────────────────
+  C2: new, man, trump, finds, house
+  Size: 3355  │  FP: 3354  │  FN: 1
+──────────────────────────────────────────────────────────────────────
+  [1] indian court rules deceased guru can be kept preserved in a freezer
+  [2] taylor swift almost pulled off stage by overzealous fans
+  [3] alien life? study suggests vast number of planets could harbor it
+  [4] tiny home infographic shows 68 percent of small-space dwellers don't have a mortgage
+
+──────────────────────────────────────────────────────────────────────
+  C3: trump, obama, new, ban, arrested
+  Size: 2204  │  FP: 19  │  FN: 2185
+──────────────────────────────────────────────────────────────────────
+  [1] xi jinping critic sentenced to 18 years in prison
+  [2] italian prisoner shoots at rivals with gun smuggled in by drone
+  [3] abortions in u.s. fall to decade low
+  [4] china recovering from deforestation
+
+──────────────────────────────────────────────────────────────────────
+  C4: trump, report, new, obama, man
+  Size: 2726  │  FP: 2119  │  FN: 607
+──────────────────────────────────────────────────────────────────────
+  [1] school’s active shooter drill includes part where security guard practices fleeing in terror
+  [2] buffalo school board passes resolution telling carl paladino to resign within 24 hours
+  [3] donald trump still sure he's 'the least racist person you’ve ever met'
+  [4] boulder city council unanimously votes to ban assault weapons, high-capacity magazines
+
+──────────────────────────────────────────────────────────────────────
+  C5: tips, know, time, things, just
+  Size: 3627  │  FP: 16  │  FN: 3611
+──────────────────────────────────────────────────────────────────────
+  [1] 13 adorable photos of baby farm animals, but with each click, another appendage will be cut off our finance director’s body. how far will you go? when will you let it stop?
+  [2] james magnussen
+  [3] women to serve on submarines
+  [4] i don't make my jukebox selections for the recognition
+
+──────────────────────────────────────────────────────────────────────
+  C6: just, new, like, day, people
+  Size: 1900  │  FP: 941  │  FN: 959
+──────────────────────────────────────────────────────────────────────
+  [1] alan turing to be honored on britain’s £50 note
+  [2] $2,500 reward for info on whoever left this puppy in a freezing trash can
+  [3] polar vortex of 2015's cray-cray banished words
+  [4] ben carson: i wouldn't bomb isis oil truck drivers, i'd just warn them they'll die
+
+──────────────────────────────────────────────────────────────────────
+  C7: new, nfl, world, million, year
+  Size: 2419  │  FP: 295  │  FN: 2124
+──────────────────────────────────────────────────────────────────────
+  [1] millennium actually starts in 2001, terrorists note
+  [2] logo releases list of companies that publicly support the lgbtq community
+  [3] microsoft announces major company overhaul
+  [4] george r.r. martin promises fans ‘the winds of winter’ is nearly started
+
+======================================================================

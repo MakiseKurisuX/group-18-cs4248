@@ -644,6 +644,34 @@ The augmentation pipeline used `diagnostic_val` error diagnoses to drive candida
 
 ---
 
+## 8. Selected Hyperparameters
+
+The table below records the hyperparameters chosen by Optuna for the three tuned BERT modes. Parameters marked `---` do not apply to that mode (contrastive loss and topic-balancing are improved-family only).
+
+| Parameter | `original_with_tuning` | `improved_with_tuning` | `improved_large_with_tuning` |
+|---|---|---|---|
+| Learning rate | 4.93e-5 | 4.58e-5 | 4.73e-5 |
+| Batch size | 32 | 8 | 4 |
+| Epochs | 4 | 5 | 4 |
+| Max length | 64 | 64 | 64 |
+| Warmup ratio | 0.140 | 0.053 | 0.068 |
+| Weight decay | 0.0059 | 0.0384 | 0.0156 |
+| LLRD decay factor | 0.950 | 0.936 | 0.805 |
+| Grad accumulation | 4 | 2 | 2 |
+| Label smoothing | 0.124 | 0.051 | 0.116 |
+| Contrastive weight | --- | 0.196 | 0.097 |
+| Contrastive temperature | --- | 0.149 | 0.102 |
+| Topic clusters K | --- | 6 | 10 |
+
+### Notes
+
+- All three modes land on a similar learning rate (~4.6–4.9e-5), consistent with fine-tuning BERT from a near-converged pre-trained state.
+- `original_with_tuning` favours a large batch (32) with high grad accumulation (4) giving an effective batch of 128. The improved modes prefer smaller batches (8 and 4) likely because the contrastive loss benefits from more gradient updates per epoch with a harder per-batch negative mining regime.
+- `improved_large_with_tuning` uses a very aggressive LLRD decay (0.805 vs 0.936 for base), meaning earlier layers receive much smaller updates — a natural consequence of the larger backbone requiring more conservative fine-tuning to avoid catastrophic forgetting.
+- `improved_large_with_tuning` selected 10 topic clusters vs 6 for the base improved model, reflecting the larger model's capacity to leverage finer-grained topic structure.
+
+---
+
 ## References
 
 [1] Devlin, J., Chang, M.-W., Lee, K., & Toutanova, K. (2019). **BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding.** *NAACL-HLT 2019*. https://arxiv.org/abs/1810.04805

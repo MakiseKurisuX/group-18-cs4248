@@ -1,0 +1,77 @@
+MESO-LEVEL CLUSTER REPORT  (K=8)
+Mode: improved_with_tuning_calibrated   Dataset: original_test
+======================================================================
+
+──────────────────────────────────────────────────────────────────────
+  C0: frank, dodd frank, dodd, ve, bastard king
+  Size: 9  │  FP: 9  │  FN: 0
+──────────────────────────────────────────────────────────────────────
+  [1] shameless new dad uses craigslist to try to hook up with his wife's delivery nurse
+  [2] 'dawn of the planet of the apes' owns weekend box office
+  [3] peter dinklage might've spit his gum into wife's mouth before accepting his emmy
+  [4] dodd-frank at four
+
+──────────────────────────────────────────────────────────────────────
+  C1: america, republicans, fight, check deer, deer
+  Size: 35  │  FP: 0  │  FN: 35
+──────────────────────────────────────────────────────────────────────
+  [1] assistant manager accused of sexual indiscrimination
+  [2] botanists making great strides in stem research
+  [3] lives of mitch mcconnell, john boehner, eric cantor retain meaning
+  [4] ugly custody battle over ian mckellen narrowly avoided
+
+──────────────────────────────────────────────────────────────────────
+  C2: scientists, discover, life, women, years
+  Size: 46  │  FP: 46  │  FN: 0
+──────────────────────────────────────────────────────────────────────
+  [1] coal baron: subsidize coal 'to make sure grandma doesn't die on the operating table'
+  [2] banyan's breakfast smoothie
+  [3] knobby-faced beast may be earliest known to stand tall on all fours
+  [4] defiant londoners sit in the street for ramadan evening meal after high-rise fire
+
+──────────────────────────────────────────────────────────────────────
+  C3: trump, gop, financial, candidate, testify
+  Size: 29  │  FP: 0  │  FN: 29
+──────────────────────────────────────────────────────────────────────
+  [1] boehner resignation leaves massive leadership vacuum in congress intact
+  [2] little debbie conquers jenny craig in midnight showdown
+  [3] ruby tuesday waiter warns jill stein her green party response to trump speech disrupting other diners
+  [4] germany disavows ties with the scorpions
+
+──────────────────────────────────────────────────────────────────────
+  C4: knight, rainbow, trump, remove, new
+  Size: 32  │  FP: 32  │  FN: 0
+──────────────────────────────────────────────────────────────────────
+  [1] obama visits arlington national cemetery to honor veterans
+  [2] top congressional watchdog uninterested in trump's conflicts of interest before he takes office
+  [3] distributor will not release new louis c.k. film after sexual misconduct report
+  [4] freddie prinze jr. recovers
+
+──────────────────────────────────────────────────────────────────────
+  C5: night, coming, dole, bob, bob dole
+  Size: 19  │  FP: 5  │  FN: 14
+──────────────────────────────────────────────────────────────────────
+  [1] amazon shelves 'x-files' creator's sci-fi series before it begins
+  [2] stacey dash still just as 'clueless'
+  [3] george clinton, della reese meet to discuss key hairstyle issues
+  [4] way too much raised for bronchitis research
+
+──────────────────────────────────────────────────────────────────────
+  C6: ban, signs, million, al, ban plane
+  Size: 19  │  FP: 5  │  FN: 14
+──────────────────────────────────────────────────────────────────────
+  [1] police department threatens criminals with 'stranger things' spoilers
+  [2] wildfires force colorado to airlift rocky mountains to safety
+  [3] security camera films meteor streaking across ohio sky
+  [4] valerie harper gives fans health update following hospitalization
+
+──────────────────────────────────────────────────────────────────────
+  C7: obama, pence, mike, mike pence, president
+  Size: 14  │  FP: 11  │  FN: 3
+──────────────────────────────────────────────────────────────────────
+  [1] new custard could cause worldwide flandemic
+  [2] fidelity matches some ira contributions
+  [3] u.s. braces for separate floods as joaquin leaves bahamas
+  [4] mike pence takes oath of office as country's next vice president
+
+======================================================================

@@ -1,0 +1,24 @@
+{
+  "model_type": "bert",
+  "mode": "master_no_tuning",
+  "dataset": "original_test",
+  "num_examples": 2851,
+  "threshold": 0.5,
+  "evaluation_style": "posthoc",
+  "output_path": "C:\\Users\\Admin\\Desktop\\Code\\CS4248\\CS4248-Group-18-Project\\models\\baseline_bert\\outputs\\predictions\\master_no_tuning_original_test_predictions.csv",
+  "metrics_path": "C:\\Users\\Admin\\Desktop\\Code\\CS4248\\CS4248-Group-18-Project\\models\\baseline_bert\\outputs\\metrics\\master_no_tuning_original_test_metrics.json",
+  "accuracy": 0.9288,
+  "precision": 0.9351,
+  "recall": 0.9137,
+  "f1": 0.9243,
+  "confusion_matrix": [
+    [
+      1409,
+      86
+    ],
+    [
+      117,
+      1239
+    ]
+  ]
+}

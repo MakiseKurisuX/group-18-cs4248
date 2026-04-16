@@ -1,0 +1,76 @@
+MESO-LEVEL CLUSTER REPORT  (K=8)
+Mode: improved_with_tuning   Dataset: original_test
+======================================================================
+
+──────────────────────────────────────────────────────────────────────
+  C0: ban, million, crashes, faa, plane crashes
+  Size: 11  │  FP: 0  │  FN: 11
+──────────────────────────────────────────────────────────────────────
+  [1] experts: ebola vaccine at least 50 white people away
+  [2] 300 million without electricity in india after restoration of power grid
+  [3] pentagon to withhold budget figures out of respect for american families
+  [4] saudi arabia officially lifts ban on female monster truck rallies
+
+──────────────────────────────────────────────────────────────────────
+  C1: scientists, discover, women, life, years
+  Size: 41  │  FP: 41  │  FN: 0
+──────────────────────────────────────────────────────────────────────
+  [1] interior department aims to slice section from endangered species act
+  [2] 2-year-old adorably mangles 'the star-spangled banner'
+  [3] men's mental health demands male friendship
+  [4] aol instant messenger to sign off forever after 20 years
+
+──────────────────────────────────────────────────────────────────────
+  C2: knight, new, trump, remove, apparently
+  Size: 42  │  FP: 40  │  FN: 2
+──────────────────────────────────────────────────────────────────────
+  [1] freddie prinze jr. recovers
+  [2] family finds frozen kitten and nurses him back to life
+  [3] trump terrible 10 -- mooch improved edition
+  [4] obama refutes allegation that he wiretapped trump tower during campaign
+
+──────────────────────────────────────────────────────────────────────
+  C3: trump, gop, financial, candidate, testify
+  Size: 21  │  FP: 0  │  FN: 21
+──────────────────────────────────────────────────────────────────────
+  [1] michael cohen granted prison work release for new job with trump 2020 campaign
+  [2] garroting survivors call for wire ban
+  [3] linebacker faces suspension for genocide
+  [4] eric trump poses with carcass of safari guide shot on african hunting trip
+
+──────────────────────────────────────────────────────────────────────
+  C4: spade just, spade, just shot, david spade, david
+  Size: 3  │  FP: 0  │  FN: 3
+──────────────────────────────────────────────────────────────────────
+  [1] david spade just shot
+  [2] ugly custody battle over ian mckellen narrowly avoided
+  [3] luther vandross remembered, if only for one night
+
+──────────────────────────────────────────────────────────────────────
+  C5: rainbow, news, obama, dole, bob
+  Size: 27  │  FP: 9  │  FN: 18
+──────────────────────────────────────────────────────────────────────
+  [1] war talks begin at camp goliath
+  [2] bob dole for windows to replace bob dole 4.0
+  [3] george zimmerman's attorney opens second day of trial with trayvon martin impression
+  [4] mike pence takes oath of office as country's next vice president
+
+──────────────────────────────────────────────────────────────────────
+  C6: jim, woman, acosta, jim acosta, big thing
+  Size: 19  │  FP: 1  │  FN: 18
+──────────────────────────────────────────────────────────────────────
+  [1] ohio state hires jim tressel as head football coach
+  [2] al-qaeda: latest missile attack bears hallmarks of u.s. military
+  [3] woman judges cities solely by their airports
+  [4] chuck grassley cranks up music in senate chamber to drown out ford's testimony
+
+──────────────────────────────────────────────────────────────────────
+  C7: city, america, republicans, fight, lost 2011
+  Size: 33  │  FP: 0  │  FN: 33
+──────────────────────────────────────────────────────────────────────
+  [1] russian beef shortage traced to boris yeltsin
+  [2] federal reserve vice-chairman roger ferguson: hot or not?
+  [3] authorities praise twitter users' rapid response to virginia shooting
+  [4] east st. louis rated number-one city in america by 'poverty magazine'
+
+======================================================================

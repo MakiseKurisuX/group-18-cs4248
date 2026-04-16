@@ -1,0 +1,77 @@
+MESO-LEVEL CLUSTER REPORT  (K=8)
+Mode: original_with_tuning   Dataset: original_test
+======================================================================
+
+──────────────────────────────────────────────────────────────────────
+  C0: teen, gives, runs trouble, runs, rover runs
+  Size: 9  │  FP: 4  │  FN: 5
+──────────────────────────────────────────────────────────────────────
+  [1] beautiful nurse gives teen enema
+  [2] teen disfigured by catcaller's pipe attack
+  [3] search underway after disneyland guest with autism drops lanyard while collecting pins
+  [4] miracle dog gives birth to septuplets
+
+──────────────────────────────────────────────────────────────────────
+  C1: scientists, house, discover, life, years
+  Size: 49  │  FP: 49  │  FN: 0
+──────────────────────────────────────────────────────────────────────
+  [1] 95-year-old woman uses lottery winnings to join 21st century
+  [2] mike pence takes oath of office as country's next vice president
+  [3] hollywood talent agency ditches usual oscar party in favor of anti-trump rally
+  [4] fidelity matches some ira contributions
+
+──────────────────────────────────────────────────────────────────────
+  C2: new, leaves, obama, attack, books
+  Size: 44  │  FP: 34  │  FN: 10
+──────────────────────────────────────────────────────────────────────
+  [1] new custard could cause worldwide flandemic
+  [2] ted cruz blasts new york times for keeping book off bestseller list
+  [3] coach's super profound words: 'ballers make plays. dudes are dudes.'
+  [4] fictional books within books we wish were real
+
+──────────────────────────────────────────────────────────────────────
+  C3: check, clinton, check deer, deer, man
+  Size: 24  │  FP: 3  │  FN: 21
+──────────────────────────────────────────────────────────────────────
+  [1] great, now it's turned into a whole big thing
+  [2] clinton goes back in time, teams up with golden-age clinton
+  [3] millennium actually starts in 2001, terrorists note
+  [4] george clinton, della reese meet to discuss key hairstyle issues
+
+──────────────────────────────────────────────────────────────────────
+  C4: ban, million, hurricane, response, shooting
+  Size: 27  │  FP: 0  │  FN: 27
+──────────────────────────────────────────────────────────────────────
+  [1] cnn anchor interviews al jazeera anchor who interviewed libyan rebels
+  [2] state's abortion waiting period allows women to explore alternatives to making their own decisions
+  [3] ice agents hurl pregnant immigrant over mexican border to prevent birth on u.s. soil
+  [4] authorities praise twitter users' rapid response to virginia shooting
+
+──────────────────────────────────────────────────────────────────────
+  C5: trump, gop, candidate, resigns, protest
+  Size: 18  │  FP: 0  │  FN: 18
+──────────────────────────────────────────────────────────────────────
+  [1] republicans poised to retain control of senate
+  [2] trump claims substantial portions of the u.s.-mexico laser forcefield have already been built
+  [3] al-qaeda: latest missile attack bears hallmarks of u.s. military
+  [4] eric trump poses with carcass of safari guide shot on african hunting trip
+
+──────────────────────────────────────────────────────────────────────
+  C6: 2011, lost 2011, lost, christianity, christianity family
+  Size: 10  │  FP: 0  │  FN: 10
+──────────────────────────────────────────────────────────────────────
+  [1] republicans blame election losses on democrats
+  [2] north dakota flooding reminds people of north dakota's existence
+  [3] federal reserve vice-chairman roger ferguson: hot or not?
+  [4] christianity: is your family at risk?
+
+──────────────────────────────────────────────────────────────────────
+  C7: free, jim, ohio state, bob dole, dole
+  Size: 20  │  FP: 5  │  FN: 15
+──────────────────────────────────────────────────────────────────────
+  [1] kathie lee gifford denies getting sincerity implants
+  [2] luther vandross remembered, if only for one night
+  [3] ugly custody battle over ian mckellen narrowly avoided
+  [4] aaron eckhart likes to make one frankenstein movie for them, one frankenstein movie for himself
+
+======================================================================

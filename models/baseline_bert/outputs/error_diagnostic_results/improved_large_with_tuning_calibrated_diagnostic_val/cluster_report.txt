@@ -1,0 +1,73 @@
+MESO-LEVEL CLUSTER REPORT  (K=8)
+Mode: improved_large_with_tuning_calibrated   Dataset: diagnostic_val
+======================================================================
+
+----------------------------------------------------------------------
+  C0: record, day, sets, clapping, stage
+  Size: 12  |  FP: 12  |  FN: 0
+----------------------------------------------------------------------
+  [1] police pursue person of interest in 42-year-old 'valentine's day killings' cold case
+  [2] research finds turning off air conditioning during the day can save money
+  [3] wife of slain kansas indian man wants to know: 'do we belong here?'
+  [4] richard branson seeks help in identifying conman involved in multimillion-dollar scam
+
+----------------------------------------------------------------------
+  C1: things, old, year, people, won
+  Size: 39  |  FP: 1  |  FN: 38
+----------------------------------------------------------------------
+  [1] i should not be allowed to say the following things about america
+  [2] i won't ever let the position of county surveyor go to my head
+  [3] if only there were some way i could watch premium movies in the comfort of my own home
+  [4] you know, now that i think about it, settling diplomatic disputes between traditionally hostile ethnic groups is nothing like drilling for oil
+
+----------------------------------------------------------------------
+  C2: summer, days, kitty, korea, north korea
+  Size: 23  |  FP: 23  |  FN: 0
+----------------------------------------------------------------------
+  [1] skinny, dreamy, apricot chicken
+  [2] company buys $8000 horse lamp by front design for lobby (photo)
+  [3] righty mcrighteous-son and the bane of being right
+  [4] h&m introduces kiddie david beckham line, giving us the gift of adorable mini beckhams
+
+----------------------------------------------------------------------
+  C3: versace, collaboration, trump, amsterdam prepares, cut
+  Size: 15  |  FP: 15  |  FN: 0
+----------------------------------------------------------------------
+  [1] tv land pulls 'cosby show' repeats
+  [2] versace, m.i.a. team up for collaboration based on versace knockoffs
+  [3] trump releases 46 minutes of lies falsely asserting ‘fraud’ in 2020 election
+  [4] as nation stays home, early indicators suggest rise in domestic violence killings
+
+----------------------------------------------------------------------
+  C4: meditation, marines, training, marines expanding, use meditation
+  Size: 3  |  FP: 3  |  FN: 0
+----------------------------------------------------------------------
+  [1] fema reportedly took the 5 million masks ordered for veterans to send to stockpile
+  [2] marines expanding use of meditation training
+  [3] peanut allergies more common in kids from wealthy families
+
+----------------------------------------------------------------------
+  C5: shooting, nba, teams, make, season
+  Size: 28  |  FP: 5  |  FN: 23
+----------------------------------------------------------------------
+  [1] virtual community: can we survive it?
+  [2] golden state warriors present kamala harris with blank jersey
+  [3] nhl tries to pass off commercial flight as flyover for winter classic
+  [4] drought reveals 113 million-year-old dinosaur tracks in texas
+
+----------------------------------------------------------------------
+  C6: tour, mac, light john, light, mac cancels
+  Size: 1  |  FP: 1  |  FN: 0
+----------------------------------------------------------------------
+  [1] fleetwood mac cancels tour in light of john mcvie's cancer treatment
+
+----------------------------------------------------------------------
+  C7: new, step, time, accidentally, 300
+  Size: 37  |  FP: 27  |  FN: 10
+----------------------------------------------------------------------
+  [1] bush won't put down new football
+  [2] 'you're the worst,' the darkest rom-com on television, returns
+  [3] jeanine pirro attacks biden for being sympathetic toward flight attendants
+  [4] pregnant kourtney kardashian rocks all black everything
+
+======================================================================

@@ -1,0 +1,77 @@
+MESO-LEVEL CLUSTER REPORT  (K=8)
+Mode: original_with_tuning   Dataset: diagnostic_val
+======================================================================
+
+----------------------------------------------------------------------
+  C0: jacko attacko, jacko, attacko, community, virtual
+  Size: 21  |  FP: 2  |  FN: 19
+----------------------------------------------------------------------
+  [1] volunteers rush to clean up glistening hunks after massive baby oil spill
+  [2] drought reveals 113 million-year-old dinosaur tracks in texas
+  [3] my kids are learning how to drive...me up the wall!
+  [4] gum may aid colon surgery recovery
+
+----------------------------------------------------------------------
+  C1: new, campaign, healthy, trump, rubio
+  Size: 40  |  FP: 36  |  FN: 4
+----------------------------------------------------------------------
+  [1] pope francis reinstates priest suspended for communist beliefs
+  [2] j.j. watt adorably helps woman tell her husband she's expecting
+  [3] national alzheimer's plan sets deadline to find treatments for memory-robbing disease
+  [4] share of uninsured americans rises for 1st time in a decade
+
+----------------------------------------------------------------------
+  C2: old, things, like, won, hate
+  Size: 35  |  FP: 1  |  FN: 34
+----------------------------------------------------------------------
+  [1] goddamn it, the neighbors are silently going at it again, i imagine
+  [2] deal alert: the quantity of raw plastic and silicon that makes up an xbox series x can be yours for just $8.27
+  [3] thanksgiving won't be the same this year without a house
+  [4] time flies when you’re feeding an addiction to internet pornography over which you no longer have any control
+
+----------------------------------------------------------------------
+  C3: man, shooting, cancels, wife, police
+  Size: 18  |  FP: 4  |  FN: 14
+----------------------------------------------------------------------
+  [1] wife of slain kansas indian man wants to know: 'do we belong here?'
+  [2] man with 90-year sentence for marijuana released from prison
+  [3] fleetwood mac cancels tour in light of john mcvie's cancer treatment
+  [4] man's breast friend: who pays for plastic surgery in divorce?
+
+----------------------------------------------------------------------
+  C4: making, village, did trick, really, really did
+  Size: 16  |  FP: 5  |  FN: 11
+----------------------------------------------------------------------
+  [1] embarrassing gaffe: ‘resident evil village’ actually features more of a town than a village if you’re going by the technical definition
+  [2] a's pitchers meet up at cool pitcher hangout called 'the strike zone' after game
+  [3] still time: the ps5s in this ancient cave painting foretelling the end of the earth look like some kind of unreleased ps5 slim edition
+  [4] pregnant kourtney kardashian rocks all black everything
+
+----------------------------------------------------------------------
+  C5: nfl, thousands, state, season, 2010
+  Size: 15  |  FP: 1  |  FN: 14
+----------------------------------------------------------------------
+  [1] thousands of athletes who will disgrace countries eagerly training for winter olympics
+  [2] nfl opens counseling center to help bears fans cope with devastating blowouts
+  [3] job growth remains sluggish, or rather, akin to a slug
+  [4] raiders agree to pay fan base $16 billion in relocation expenses
+
+----------------------------------------------------------------------
+  C6: says, won halloween, hoverboard, aladdin just, just won
+  Size: 15  |  FP: 15  |  FN: 0
+----------------------------------------------------------------------
+  [1] u.s. mint to resume silver coin sales after running out
+  [2] 'today i die,' says gang leader who killed self after shooting firefighter
+  [3] jetblue event raises question of unstable approach to hiring
+  [4] tuba player is easily scared apparently
+
+----------------------------------------------------------------------
+  C7: police dog, brings, brings fugitive, dog, fugitive
+  Size: 5  |  FP: 1  |  FN: 4
+----------------------------------------------------------------------
+  [1] coconut milk pulled from shelves over forced monkey labor
+  [2] lobster diver survives being trapped in whale’s mouth
+  [3] white house swaps with taliban to free u.s. soldier
+  [4] animal shelter celebrates when all of its dogs are adopted in time for christmas
+
+======================================================================

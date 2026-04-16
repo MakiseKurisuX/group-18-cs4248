@@ -1,0 +1,77 @@
+MESO-LEVEL CLUSTER REPORT  (K=8)
+Mode: original_with_tuning_calibrated   Dataset: diagnostic_val
+======================================================================
+
+──────────────────────────────────────────────────────────────────────
+  C0: school, campaign hires, rubio campaign, hires, campaign
+  Size: 20  │  FP: 11  │  FN: 9
+──────────────────────────────────────────────────────────────────────
+  [1] california raises smoking age to 21
+  [2] intel fires 12,000 amid pc crisis
+  [3] raiders agree to pay fan base $16 billion in relocation expenses
+  [4] trump releases 46 minutes of lies falsely asserting ‘fraud’ in 2020 election
+
+──────────────────────────────────────────────────────────────────────
+  C1: jacko, jacko attacko, attacko, love, things
+  Size: 16  │  FP: 1  │  FN: 15
+──────────────────────────────────────────────────────────────────────
+  [1] volunteers rush to clean up glistening hunks after massive baby oil spill
+  [2] tough: the new tmnt game follows a european trip where the turtles realize their fervent italian-american pride has little in common with modern italian life
+  [3] virtual community: can we survive it?
+  [4] facebook adds more than 50 new gender options
+
+──────────────────────────────────────────────────────────────────────
+  C2: shooting, year, victims sought, victims, sought week
+  Size: 6  │  FP: 1  │  FN: 5
+──────────────────────────────────────────────────────────────────────
+  [1] man with 90-year sentence for marijuana released from prison
+  [2] former viagra spokesman suspended for using performance-enhancing substances
+  [3] police pursue person of interest in 42-year-old 'valentine's day killings' cold case
+  [4] high schoolers given detention for cutting class during active shooting
+
+──────────────────────────────────────────────────────────────────────
+  C3: says, prepares, amsterdam, amsterdam prepares, prepares cut
+  Size: 15  │  FP: 15  │  FN: 0
+──────────────────────────────────────────────────────────────────────
+  [1] u.s. mint to resume silver coin sales after running out
+  [2] 'today i die,' says gang leader who killed self after shooting firefighter
+  [3] jetblue event raises question of unstable approach to hiring
+  [4] tuba player is easily scared apparently
+
+──────────────────────────────────────────────────────────────────────
+  C4: won, year, wii kills, wii, gonna
+  Size: 6  │  FP: 0  │  FN: 6
+──────────────────────────────────────────────────────────────────────
+  [1] i'm gonna get me a wii if it kills me
+  [2] as long as you're under my roof, you'll play by my monopoly rules
+  [3] the secret to my 65-year marriage is trust, respect, and threatening to kill myself if she leaves
+  [4] thanksgiving won't be the same this year without a house
+
+──────────────────────────────────────────────────────────────────────
+  C5: old, village, like, hate, mind believe
+  Size: 39  │  FP: 2  │  FN: 37
+──────────────────────────────────────────────────────────────────────
+  [1] goddamn it, the neighbors are silently going at it again, i imagine
+  [2] i should not be allowed to say the following things about america
+  [3] conditions ideal for eating competition
+  [4] we're investing so much in alternative fuels, sometimes we almost forget to pump oil!
+
+──────────────────────────────────────────────────────────────────────
+  C6: nfl, thousands, nba, teams, athletes
+  Size: 34  │  FP: 11  │  FN: 23
+──────────────────────────────────────────────────────────────────────
+  [1] freeze-resistant cockroaches invade manhattan
+  [2] police dog successfully brings down fugitive frisbee
+  [3] nfl opens counseling center to help bears fans cope with devastating blowouts
+  [4] thousands of athletes who will disgrace countries eagerly training for winter olympics
+
+──────────────────────────────────────────────────────────────────────
+  C7: healthy, brain, shares, days, life planet
+  Size: 28  │  FP: 28  │  FN: 0
+──────────────────────────────────────────────────────────────────────
+  [1] j.j. watt adorably helps woman tell her husband she's expecting
+  [2] calvin and hobbes started adventuring together 30 years ago today
+  [3] national alzheimer's plan sets deadline to find treatments for memory-robbing disease
+  [4] healthy heart may also mean healthy brain
+
+======================================================================

@@ -1,0 +1,77 @@
+MESO-LEVEL CLUSTER REPORT  (K=8)
+Mode: original_with_tuning   Dataset: master_copy_dedup_v2
+======================================================================
+
+──────────────────────────────────────────────────────────────────────
+  C0: new, day, trump, just, obama
+  Size: 2848  │  FP: 2406  │  FN: 442
+──────────────────────────────────────────────────────────────────────
+  [1] mormon leader: 'there are no homosexual members of the church'
+  [2] my husband the impostor
+  [3] justin bieber, selena gomez marriage rumors circulating again
+  [4] inside the sacred temple where people magazine’s ancestral editors choose their sexiest man alive each year
+
+──────────────────────────────────────────────────────────────────────
+  C1: tips, pros cons, cons, know, pros
+  Size: 3396  │  FP: 3  │  FN: 3393
+──────────────────────────────────────────────────────────────────────
+  [1] what to know about the atlanta spa killings
+  [2] the new sat
+  [3] remembering earnhardt
+  [4] adele: a career timeline
+
+──────────────────────────────────────────────────────────────────────
+  C2: trump, new, report, obama, house
+  Size: 1791  │  FP: 1572  │  FN: 219
+──────────────────────────────────────────────────────────────────────
+  [1] rapidly intensifying cyclone heading toward tumultuous yemen
+  [2] fda approves first-ever implant to treat opioid addiction
+  [3] senators to introduce amendment abolishing electoral college
+  [4] conservative pundit points out where real blame for gop’s ‘descent into madness’ lies
+
+──────────────────────────────────────────────────────────────────────
+  C3: new, trump, million, nfl, world
+  Size: 2438  │  FP: 363  │  FN: 2075
+──────────────────────────────────────────────────────────────────────
+  [1] amazon reaches 1 trillion labor violations<em></em>
+  [2] other notable sports figures of 2010
+  [3] nhl warns hockey fans that banging on glass scares players
+  [4] this pastor self-immolated to protest social injustice
+
+──────────────────────────────────────────────────────────────────────
+  C4: new, man, obama, trump, report
+  Size: 3230  │  FP: 3230  │  FN: 0
+──────────────────────────────────────────────────────────────────────
+  [1] golden globes returning to nbc in january after year off-air
+  [2] nasa successfully attaches inflatable room to international space station
+  [3] challenge accepted
+  [4] perfect vending machine stocked with plan b, pregnancy tests, lube and candy
+
+──────────────────────────────────────────────────────────────────────
+  C5: just, like, time, people, say
+  Size: 3191  │  FP: 329  │  FN: 2862
+──────────────────────────────────────────────────────────────────────
+  [1] india’s chandrayaan-2 mission heading to moon
+  [2] mild mild west: ‘red dead online’ isn’t worth playing since you can see real horses at the zoo
+  [3] get excited, ‘l.a. noire’ fans! this guy is lying about not murdering your cousin!
+  [4] like boxes of shit in your house? get a cat
+
+──────────────────────────────────────────────────────────────────────
+  C6: man, woman, old, year, year old
+  Size: 1754  │  FP: 1705  │  FN: 49
+──────────────────────────────────────────────────────────────────────
+  [1] drake fans offered full refund after travis scott falls down hole at concert
+  [2] bakery employs ex-inmates to help them make tough transition into society
+  [3] native american tribes dedicating land, food to protect monarch butterflies
+  [4] sick woman granted final wish to say goodbye to beloved horse hours before her death
+
+──────────────────────────────────────────────────────────────────────
+  C7: trump, million, obama, new, billion
+  Size: 2119  │  FP: 4  │  FN: 2115
+──────────────────────────────────────────────────────────────────────
+  [1] deriba merga dedicates boston marathon victory to pit crew
+  [2] nicaraguan police arrest 5th presidential candidate
+  [3] trump tells liberal congresswomen to ‘go back to their country’
+  [4] beto o’rourke smashes records with $6.1 million in fundraising
+
+======================================================================

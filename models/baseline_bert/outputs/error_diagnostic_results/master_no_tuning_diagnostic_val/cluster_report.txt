@@ -1,0 +1,70 @@
+MESO-LEVEL CLUSTER REPORT  (K=8)
+Mode: master_no_tuning   Dataset: diagnostic_val
+======================================================================
+
+----------------------------------------------------------------------
+  C0: star, facing, facing hillary, challenges facing, hillary clinton
+  Size: 13  |  FP: 13  |  FN: 0
+----------------------------------------------------------------------
+  [1] possibly tipsy man loves cheap costco beer so much, he made a commercial for it
+  [2] the challenges facing hillary clinton
+  [3] study finds having a conversation about trans issues can change people's minds
+  [4] police pursue person of interest in 42-year-old 'valentine's day killings' cold case
+
+----------------------------------------------------------------------
+  C1: house, virus, admired, america, america admired
+  Size: 17  |  FP: 17  |  FN: 0
+----------------------------------------------------------------------
+  [1] jerry sandusky's pension reinstated by appeals court
+  [2] report: tom brady allied with peyton manning to change ball rule in 2006
+  [3] vacant walmart may house children of illegal immigrants
+  [4] intel fires 12,000 amid pc crisis
+
+----------------------------------------------------------------------
+  C2: syria conflict, syria, intensifies bears, intensifies, enter war
+  Size: 2  |  FP: 0  |  FN: 2
+----------------------------------------------------------------------
+  [1] tennessee to make public camping for homeless a felony
+  [2] syria conflict intensifies as bears enter war
+
+----------------------------------------------------------------------
+  C3: abramson, abramson fired, fired, report jill, jill abramson
+  Size: 5  |  FP: 2  |  FN: 3
+----------------------------------------------------------------------
+  [1] whirring sounds heard across seattle as tech workers overheat
+  [2] facebook adds more than 50 new gender options
+  [3] report: why jill abramson was fired
+  [4] pete davidson to join next blue origin space flight
+
+----------------------------------------------------------------------
+  C4: trump, wanna, wanna everybody, everybody knows, everybody
+  Size: 10  |  FP: 10  |  FN: 0
+----------------------------------------------------------------------
+  [1] research finds turning off air conditioning during the day can save money
+  [2] trump releases 46 minutes of lies falsely asserting ‘fraud’ in 2020 election
+  [3] sometimes you wanna go where everybody knows your name
+  [4] california raises smoking age to 21
+
+----------------------------------------------------------------------
+  C5: parents, parents explaining, explaining boston, tragedy children, tragedy
+  Size: 3  |  FP: 1  |  FN: 2
+----------------------------------------------------------------------
+  [1] how parents are explaining the boston tragedy to children
+  [2] commencement speaker some rando who pioneered lifesaving medical research
+  [3] investigators determine air france disaster caused by plane crash
+
+----------------------------------------------------------------------
+  C6: egg, unimpressed cat, unimpressed, magic trick, trick
+  Size: 2  |  FP: 2  |  FN: 0
+----------------------------------------------------------------------
+  [1] unimpressed cat is not at all interested in your magic trick
+  [2] put an egg on it!
+
+----------------------------------------------------------------------
+  C7: paid 300, paid, times salary, times, worker accidentally
+  Size: 2  |  FP: 0  |  FN: 2
+----------------------------------------------------------------------
+  [1] proposed legislation would require airline seats meet federal ass standards
+  [2] worker accidentally paid 300 times his salary disappears with money
+
+======================================================================

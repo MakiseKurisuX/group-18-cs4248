@@ -1,0 +1,77 @@
+MESO-LEVEL CLUSTER REPORT  (K=8)
+Mode: improved_with_tuning   Dataset: master_copy_dedup_v2
+======================================================================
+
+──────────────────────────────────────────────────────────────────────
+  C0: recipe, new, day, recipe day, just
+  Size: 2004  │  FP: 1820  │  FN: 184
+──────────────────────────────────────────────────────────────────────
+  [1] fish tacos recipe with broccoli slaw and lime cream sauce
+  [2] fifth-grade girl flings buzzer-beater from the other 3-point line
+  [3] female hummingbirds avoid harassment by looking like males
+  [4] wilderness guide
+
+──────────────────────────────────────────────────────────────────────
+  C1: tips, know, pros, pros cons, cons
+  Size: 3910  │  FP: 0  │  FN: 3910
+──────────────────────────────────────────────────────────────────────
+  [1] the marriage ref
+  [2] thomas and jarrett
+  [3] downton abbey
+  [4] the new american gladiators
+
+──────────────────────────────────────────────────────────────────────
+  C2: trump, obama, new, house, world
+  Size: 1916  │  FP: 2  │  FN: 1914
+──────────────────────────────────────────────────────────────────────
+  [1] facebook, twitter helping eu combat hate speech
+  [2] earthquake tests east coast preparedness
+  [3] new york city declares emergency over measles outbreak
+  [4] health experts warn protests could set off second wave of police brutality
+
+──────────────────────────────────────────────────────────────────────
+  C3: new, trump, obama, man, house
+  Size: 3799  │  FP: 3789  │  FN: 10
+──────────────────────────────────────────────────────────────────────
+  [1] family finds frozen kitten and nurses him back to life
+  [2] bill oakley tweets top 10 'simpsons' episode pitches that never made it to air for 500th episode
+  [3] meatballs go greek
+  [4] no time to waste in letting public, lawmakers know about fast track
+
+──────────────────────────────────────────────────────────────────────
+  C4: new, man, year, old, year old
+  Size: 3769  │  FP: 3763  │  FN: 6
+──────────────────────────────────────────────────────────────────────
+  [1] half-kneeling hip flexor stretch with overhead reach
+  [2] u.s. jobless claims fall slightly to 793,000 with layoffs high
+  [3] namasté solar allows employees to know how much their coworkers make
+  [4] fda authorizes second covid booster for those 50 and older
+
+──────────────────────────────────────────────────────────────────────
+  C5: new, man, onion, just, like
+  Size: 1501  │  FP: 222  │  FN: 1279
+──────────────────────────────────────────────────────────────────────
+  [1] mom and dad, i'm gay and also stronger than both of you, so don't try any shit
+  [2] toys ‘r’ us prepares to liquidate business
+  [3] gorgeous vacation spots for escaped felons on a budget
+  [4] e.u. will allow vaccinated u.s. tourists this summer
+
+──────────────────────────────────────────────────────────────────────
+  C6: trump, onion, new, just, world
+  Size: 3144  │  FP: 3  │  FN: 3141
+──────────────────────────────────────────────────────────────────────
+  [1] if al-qaeda had a hockey team, we'd kick its ass!
+  [2] bush targeted al-jazeera?
+  [3] idris elba says he will not be the next james bond
+  [4] ebola reaches ugandan capital
+
+──────────────────────────────────────────────────────────────────────
+  C7: new, trump, report, obama, house
+  Size: 1776  │  FP: 1317  │  FN: 459
+──────────────────────────────────────────────────────────────────────
+  [1] global economy increasingly vulnerable to another financial shock
+  [2] new horizons probe survives pluto flyby
+  [3] student-loan interest cut
+  [4] milwaukee mayor beaten with pipe
+
+======================================================================

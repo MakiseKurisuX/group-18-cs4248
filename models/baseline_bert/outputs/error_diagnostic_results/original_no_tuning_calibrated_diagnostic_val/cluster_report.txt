@@ -1,0 +1,77 @@
+MESO-LEVEL CLUSTER REPORT  (K=8)
+Mode: original_no_tuning_calibrated   Dataset: diagnostic_val
+======================================================================
+
+──────────────────────────────────────────────────────────────────────
+  C0: billionaire, thinks obama, billionaire thinks, thinks, obama socialist
+  Size: 10  │  FP: 3  │  FN: 7
+──────────────────────────────────────────────────────────────────────
+  [1] lobster diver survives being trapped in whale’s mouth
+  [2] nasa announces plan to launch $700 million into space
+  [3] hillary clinton demands fbi release any information it has on new email investigation
+  [4] rubio campaign hires top koch brothers strategist
+
+──────────────────────────────────────────────────────────────────────
+  C1: like, things, old, won, hate
+  Size: 52  │  FP: 1  │  FN: 51
+──────────────────────────────────────────────────────────────────────
+  [1] things all cats do that prove they are psychopaths
+  [2] goddamn it, the neighbors are silently going at it again, i imagine
+  [3] sidney crosby's one-goal, two-assist performance saves hockey
+  [4] pope francis: ‘nobody out-molests the catholic church’
+
+──────────────────────────────────────────────────────────────────────
+  C2: jerry sandusky, appeals, appeals court, sandusky, pension
+  Size: 4  │  FP: 4  │  FN: 0
+──────────────────────────────────────────────────────────────────────
+  [1] national alzheimer's plan sets deadline to find treatments for memory-robbing disease
+  [2] share of uninsured americans rises for 1st time in a decade
+  [3] jerry sandusky's pension reinstated by appeals court
+  [4] man's breast friend: who pays for plastic surgery in divorce?
+
+──────────────────────────────────────────────────────────────────────
+  C3: village, interested shaq, shaq person, person, nba teams
+  Size: 17  │  FP: 1  │  FN: 16
+──────────────────────────────────────────────────────────────────────
+  [1] volunteers rush to clean up glistening hunks after massive baby oil spill
+  [2] embarrassing gaffe: ‘resident evil village’ actually features more of a town than a village if you’re going by the technical definition
+  [3] several nba teams interested in shaq as a person
+  [4] drought reveals 113 million-year-old dinosaur tracks in texas
+
+──────────────────────────────────────────────────────────────────────
+  C4: years, dollar, trump, prepares, apricot
+  Size: 25  │  FP: 25  │  FN: 0
+──────────────────────────────────────────────────────────────────────
+  [1] adorable couple of 70 years shares key to marital bliss
+  [2] research finds turning off air conditioning during the day can save money
+  [3] jetblue event raises question of unstable approach to hiring
+  [4] trump lauds tax cuts on road trip as most americans still don't see a benefit
+
+──────────────────────────────────────────────────────────────────────
+  C5: black, kids, says, tv, olympics
+  Size: 41  │  FP: 28  │  FN: 13
+──────────────────────────────────────────────────────────────────────
+  [1] ghost of christmas future taunts children with visions of playstation 5
+  [2] company buys $8000 horse lamp by front design for lobby (photo)
+  [3] obamas welcome athletes to special olympics
+  [4] monica lewinsky breaks decade-long silence
+
+──────────────────────────────────────────────────────────────────────
+  C6: shooting, police, public, victims, week shooting
+  Size: 17  │  FP: 0  │  FN: 17
+──────────────────────────────────────────────────────────────────────
+  [1] man with 90-year sentence for marijuana released from prison
+  [2] former viagra spokesman suspended for using performance-enhancing substances
+  [3] high schoolers given detention for cutting class during active shooting
+  [4] fan pissed 15-yard penalty called on hit that resulted in player being carted off field on stretcher
+
+──────────────────────────────────────────────────────────────────────
+  C7: season, 2010, bears, world, world series
+  Size: 10  │  FP: 0  │  FN: 10
+──────────────────────────────────────────────────────────────────────
+  [1] raiders agree to pay fan base $16 billion in relocation expenses
+  [2] syria conflict intensifies as bears enter war
+  [3] florida state university to phase out academic operations by 2010
+  [4] orioles' top prospect wins world series in first major-league at bat
+
+======================================================================

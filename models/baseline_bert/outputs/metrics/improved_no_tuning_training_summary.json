@@ -1,0 +1,92 @@
+{
+  "mode": "improved_no_tuning",
+  "trained": true,
+  "used_tuning": false,
+  "use_domain_context": false,
+  "improvements": [
+    "topic_balanced_sampling",
+    "supervised_contrastive_loss"
+  ],
+  "selected_hyperparameters": {
+    "learning_rate": 1e-05,
+    "batch_size": 16,
+    "num_epochs": 5,
+    "max_length": 64,
+    "weight_decay": 0.01,
+    "warmup_ratio": 0.1,
+    "llrd_decay_factor": 0.9,
+    "grad_accum": 1,
+    "label_smoothing": 0.1,
+    "contrastive_weight": 0.1,
+    "contrastive_temperature": 0.07,
+    "n_topic_clusters": 8
+  },
+  "training_metrics": {
+    "train_runtime": 327.9566,
+    "train_samples_per_second": 347.622,
+    "train_steps_per_second": 21.741,
+    "total_flos": 1667252535611520.0,
+    "train_loss": 0.31646621083477605,
+    "epoch": 5.0
+  },
+  "validation_metrics": {
+    "eval_loss": 0.366443395614624,
+    "eval_accuracy": 0.9221,
+    "eval_precision": 0.9243,
+    "eval_recall": 0.9107,
+    "eval_f1": 0.9175,
+    "eval_runtime": 0.8406,
+    "eval_samples_per_second": 3391.748,
+    "eval_steps_per_second": 53.535,
+    "epoch": 5.0
+  },
+  "tuning_summary_path": null,
+  "model_output_dir": "C:\\Users\\Admin\\Desktop\\Code\\CS4248\\CS4248-Group-18-Project\\models\\baseline_bert\\outputs\\models\\improved_no_tuning",
+  "evaluations": [
+    {
+      "model_type": "bert",
+      "mode": "improved_no_tuning",
+      "dataset": "original_test",
+      "num_examples": 2851,
+      "output_path": "C:\\Users\\Admin\\Desktop\\Code\\CS4248\\CS4248-Group-18-Project\\models\\baseline_bert\\outputs\\predictions\\improved_no_tuning_original_test_predictions.csv",
+      "metrics_path": "C:\\Users\\Admin\\Desktop\\Code\\CS4248\\CS4248-Group-18-Project\\models\\baseline_bert\\outputs\\metrics\\improved_no_tuning_original_test_metrics.json",
+      "accuracy": 0.919,
+      "precision": 0.9145,
+      "recall": 0.9152,
+      "f1": 0.9149,
+      "confusion_matrix": [
+        [
+          1379,
+          116
+        ],
+        [
+          115,
+          1241
+        ]
+      ]
+    },
+    {
+      "model_type": "bert",
+      "mode": "improved_no_tuning",
+      "dataset": "master_copy_dedup_v2",
+      "num_examples": 251971,
+      "output_path": "C:\\Users\\Admin\\Desktop\\Code\\CS4248\\CS4248-Group-18-Project\\models\\baseline_bert\\outputs\\predictions\\improved_no_tuning_master_copy_dedup_v2_predictions.csv",
+      "metrics_path": "C:\\Users\\Admin\\Desktop\\Code\\CS4248\\CS4248-Group-18-Project\\models\\baseline_bert\\outputs\\metrics\\improved_no_tuning_master_copy_dedup_v2_metrics.json",
+      "accuracy": 0.8988,
+      "precision": 0.6783,
+      "recall": 0.707,
+      "f1": 0.6924,
+      "confusion_matrix": [
+        [
+          197787,
+          13606
+        ],
+        [
+          11889,
+          28689
+        ]
+      ]
+    }
+  ],
+  "evaluation_summary_path": "C:\\Users\\Admin\\Desktop\\Code\\CS4248\\CS4248-Group-18-Project\\models\\baseline_bert\\outputs\\metrics\\improved_no_tuning_evaluation_summary.csv"
+}

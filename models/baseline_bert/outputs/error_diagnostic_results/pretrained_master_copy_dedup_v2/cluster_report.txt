@@ -1,0 +1,77 @@
+MESO-LEVEL CLUSTER REPORT  (K=8)
+Mode: pretrained   Dataset: master_copy_dedup_v2
+======================================================================
+
+──────────────────────────────────────────────────────────────────────
+  C0: man, new, year, old, area
+  Size: 7416  │  FP: 27  │  FN: 7389
+──────────────────────────────────────────────────────────────────────
+  [1] co-op casino robbed again
+  [2] sick man slowly becoming enthroned in used tissues
+  [3] astronaut buzz aldrin marries longtime hallucination of sexy space babe
+  [4] room scanned for something to sell on ebay
+
+──────────────────────────────────────────────────────────────────────
+  C1: nfl, game, nba, bowl, players
+  Size: 2152  │  FP: 3  │  FN: 2149
+──────────────────────────────────────────────────────────────────────
+  [1] report: 100 percent of college football players receiving benefits of being college football players
+  [2] espn completely misses brett favre vs. green bay packers storyline
+  [3] bengals fan confident this the wake-up call pacman jones needed
+  [4] rob manfred frustrated mlb season falling apart despite all the energy he put into wishing it wouldn’t
+
+──────────────────────────────────────────────────────────────────────
+  C2: new, trump, obama, announces, 000
+  Size: 7054  │  FP: 24  │  FN: 7030
+──────────────────────────────────────────────────────────────────────
+  [1] bear attacks rise sharply across u.s.
+  [2] environmentalists speak out against excessive cheese logging
+  [3] u.s. announces diplomatic boycott of beijing winter olympics
+  [4] herpes administered to invasive fish
+
+──────────────────────────────────────────────────────────────────────
+  C3: says, trump, obama, don, new
+  Size: 3101  │  FP: 1710  │  FN: 1391
+──────────────────────────────────────────────────────────────────────
+  [1] jared leto's 'dallas buyers club' role prompted him to lose '30 or 40 pounds'
+  [2] 'cash for clunkers' broke
+  [3] 'c-list celebrity killer' leaves police enthusiastically guessing who's next
+  [4] fearless 'push girl' tiphany adams: 'it's okay to be vulnerable'
+
+──────────────────────────────────────────────────────────────────────
+  C4: tips, new, sports, dead, turns
+  Size: 4225  │  FP: 10  │  FN: 4215
+──────────────────────────────────────────────────────────────────────
+  [1] nfl week three winners and losers
+  [2] assange's police documents leaked
+  [3] i guess i got a girlfriend
+  [4] cia leak probed
+
+──────────────────────────────────────────────────────────────────────
+  C5: new, study, report, man, nation
+  Size: 7613  │  FP: 42  │  FN: 7571
+──────────────────────────────────────────────────────────────────────
+  [1] vitamin c and the nutrient gang make surprise appearance in area man’s breakfast
+  [2] problematic friend argues that kanye makes some good points about shoes
+  [3] gop statisticians develop new branch of math to formulate scenarios in which trump doesn’t win nomination
+  [4] area mofo announces plans to chill
+
+──────────────────────────────────────────────────────────────────────
+  C6: man, woman, area, new, just
+  Size: 6346  │  FP: 9  │  FN: 6337
+──────────────────────────────────────────────────────────────────────
+  [1] group of girls directs would-be suitor toward least attractive member
+  [2] lonely nation gathers outside window of happy family eating dinner together
+  [3] obama not sure how to tell nation this, but he ran over jimmy carter with car last night
+  [4] friend in passenger seat working in some creative flourishes in ghostwritten text message to driver’s mom
+
+──────────────────────────────────────────────────────────────────────
+  C7: just, report, know, like, time
+  Size: 4444  │  FP: 93  │  FN: 4351
+──────────────────────────────────────────────────────────────────────
+  [1] episode 5, part 2: did my police department miss something?
+  [2] your offer of gum seems rather disingenuous
+  [3] no parent should ever have to bury his child alive
+  [4] there's no more reassuring voice in retirement planning than dennis hopper
+
+======================================================================

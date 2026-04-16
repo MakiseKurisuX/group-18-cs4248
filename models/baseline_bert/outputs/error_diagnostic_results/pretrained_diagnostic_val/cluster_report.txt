@@ -1,0 +1,77 @@
+MESO-LEVEL CLUSTER REPORT  (K=8)
+Mode: pretrained   Dataset: diagnostic_val
+======================================================================
+
+----------------------------------------------------------------------
+  C0: man, nation, just, study, industry
+  Size: 132  |  FP: 41  |  FN: 91
+----------------------------------------------------------------------
+  [1] nation’s women clarify they harbor no secret desire to see colleagues’, acquaintances’, strangers’ genitals
+  [2] judge says secret log shows oc sheriff's deputies dealt 'extensively' with jail informants
+  [3] ceo has big ideas to grow company’s problems
+  [4] unadorned chevy silverado driven by town comptroller somehow makes cut as parade float
+
+----------------------------------------------------------------------
+  C1: trump, donald, donald trump, clinton, sanders
+  Size: 134  |  FP: 131  |  FN: 3
+----------------------------------------------------------------------
+  [1] ted cruz blames fox news for donald trump's rise
+  [2] the prospect of a trump-schumer-pelosi axis terrifies gop and democrats alike
+  [3] democrats urge oversight hearing on trump's response to puerto rico disaster
+  [4] khizr khan was right: donald trump should walk around arlington national cemetery
+
+----------------------------------------------------------------------
+  C2: women, help, children, america, risk
+  Size: 135  |  FP: 132  |  FN: 3
+----------------------------------------------------------------------
+  [1] top 5 excuses for not getting acupuncture
+  [2] kids who spend more time outside have lower risk for nearsightedness
+  [3] rep. tim ryan: mindfulness helps me maintain a connection to my values during conflict (video)
+  [4] mindfulness meditation boosts music engagement, study finds
+
+----------------------------------------------------------------------
+  C3: man, police, says, president, new
+  Size: 146  |  FP: 132  |  FN: 14
+----------------------------------------------------------------------
+  [1] venezuelan president blames alleged assassination attempt on colombian president
+  [2] god falling under influence of powerful spiritual guru
+  [3] dallas police chief says gunman plotted larger assault
+  [4] cheating stories: ex trashes car after owner is caught cheating (photos)
+
+----------------------------------------------------------------------
+  C4: 10, best, thanksgiving, tips, divorce
+  Size: 154  |  FP: 143  |  FN: 11
+----------------------------------------------------------------------
+  [1] 8 unexpected island getaways on the cheap (photos)
+  [2] pancake fails: the worst batches on the internet (photos)
+  [3] the 10 best new beach hotels this winter
+  [4] an early spring lunch: deviled egg salad with parsley
+
+----------------------------------------------------------------------
+  C5: don, old, trump, watch, new
+  Size: 183  |  FP: 167  |  FN: 16
+----------------------------------------------------------------------
+  [1] we imprison hideo kojima in an interview room until he breaks down and admits he’s just making shit up as he goes along
+  [2] california's thomas fire now ranks among largest in state history
+  [3] you can be the proud owner of zac efron's first car
+  [4] arundhati roy's new novel lays india bare, unveiling worlds within our worlds
+
+----------------------------------------------------------------------
+  C6: photos, video, new, red, birthday
+  Size: 164  |  FP: 162  |  FN: 2
+----------------------------------------------------------------------
+  [1] shiloh jolie-pitt dances to doja cat in viral studio clip
+  [2] rosanna ogden, toddler, dubbed 'miracle swimmer' after recovery from open heart surgery (video)
+  [3] acm awards: red carpet dresses that could be wedding gowns (photos)
+  [4] justin timberlake visits texas school shooting victims
+
+----------------------------------------------------------------------
+  C7: don, love, ve, need, make
+  Size: 144  |  FP: 141  |  FN: 3
+----------------------------------------------------------------------
+  [1] you're exactly where you need to be
+  [2] your cat doesn't miss you when leave: study
+  [3] if you haven't seen alvin ailey, you haven't seen dance
+  [4] citylove goes to boise, idaho
+
+======================================================================

@@ -1,0 +1,77 @@
+MESO-LEVEL CLUSTER REPORT  (K=8)
+Mode: original_with_tuning_calibrated   Dataset: master_copy_dedup_v2
+======================================================================
+
+──────────────────────────────────────────────────────────────────────
+  C0: new, man, year, day, old
+  Size: 3080  │  FP: 3050  │  FN: 30
+──────────────────────────────────────────────────────────────────────
+  [1] susan sarandon doubles down on nonsense
+  [2] gay dad sounds off on legislature worried about standardized tests making kids gay
+  [3] bull who sired 500,000 offspring dies
+  [4] italy fears another amanda knox-saga after american found dead
+
+──────────────────────────────────────────────────────────────────────
+  C1: like, time, onion, things, just
+  Size: 3114  │  FP: 354  │  FN: 2760
+──────────────────────────────────────────────────────────────────────
+  [1] nyc getting ‘high-heel-friendly’ subway grates
+  [2] people criticizing ‘anthem’ don’t understand the developer’s vision of a game that had to come out this past fiscal year
+  [3] pennsylvanians explain why they are voting for dr. oz
+  [4] i hit the dead-wife insurance jackpot!
+
+──────────────────────────────────────────────────────────────────────
+  C2: new, man, obama, trump, report
+  Size: 3047  │  FP: 3047  │  FN: 0
+──────────────────────────────────────────────────────────────────────
+  [1] democrat decides maybe minor league ballplayers deserve minimum wage
+  [2] amusement park vip perks
+  [3] area man yelling courtside is all of us during these nba playoffs
+  [4] james holmes defense make final appeal for mercy
+
+──────────────────────────────────────────────────────────────────────
+  C3: vs, tips, nfl, november, august
+  Size: 1085  │  FP: 7  │  FN: 1078
+──────────────────────────────────────────────────────────────────────
+  [1] tax preparation tips
+  [2] stephen bannon
+  [3] oscar host chris rock
+  [4] eli manning
+
+──────────────────────────────────────────────────────────────────────
+  C4: new, trump, time, year, world
+  Size: 3039  │  FP: 1772  │  FN: 1267
+──────────────────────────────────────────────────────────────────────
+  [1] tom hanks laughs at eating takeout with rita wilson in isolation
+  [2] big ten peace summit fails to end century-long michigan, ohio state rivalry
+  [3] otto scharmer shares what you can do for a few hours each day to revolutionize your brain
+  [4] friday box office sees 'lee daniels' the butler' outshining 'kick-ass 2'
+
+──────────────────────────────────────────────────────────────────────
+  C5: pros cons, pros, cons, tips, know
+  Size: 2729  │  FP: 6  │  FN: 2723
+──────────────────────────────────────────────────────────────────────
+  [1] katy perry to be ‘american idol’ judge
+  [2] chapter 11 for boston archdiocese?
+  [3] the great sports books
+  [4] what to know about trump’s mar-a-lago estate
+
+──────────────────────────────────────────────────────────────────────
+  C6: new, report, trump, obama, house
+  Size: 2834  │  FP: 2459  │  FN: 375
+──────────────────────────────────────────────────────────────────────
+  [1] man arrested wearing 'really good at making really bad decisions' t-shirt
+  [2] iran gave up nuke program in 2003
+  [3] flint, state of michigan reach agreement to replace lead water lines by 2020
+  [4] wilbur ross cheers lack of protests during trump's saudi visit
+
+──────────────────────────────────────────────────────────────────────
+  C7: trump, million, new, police, ban
+  Size: 2529  │  FP: 28  │  FN: 2501
+──────────────────────────────────────────────────────────────────────
+  [1] timeline of studies on the effects of eating meat
+  [2] alabama boosters under fire after paying for nick saban’s sex change
+  [3] judge dismisses ‘new york times’ libel suit brought by cannibal terrorist sarah palin
+  [4] chuck schumer announces support for reparations bill
+
+======================================================================

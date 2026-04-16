@@ -1,0 +1,77 @@
+MESO-LEVEL CLUSTER REPORT  (K=8)
+Mode: improved_with_tuning_calibrated   Dataset: diagnostic_val
+======================================================================
+
+----------------------------------------------------------------------
+  C0: drought, year, camel, camel arctic, giant
+  Size: 14  |  FP: 0  |  FN: 14
+----------------------------------------------------------------------
+  [1] drought reveals 113 million-year-old dinosaur tracks in texas
+  [2] lobster diver survives being trapped in whale’s mouth
+  [3] gum may aid colon surgery recovery
+  [4] officials say outbreak of australian wildfire may have spread from engulfed passenger traveling from u.s.
+
+----------------------------------------------------------------------
+  C1: healthy, age, brain, shares, going
+  Size: 31  |  FP: 30  |  FN: 1
+----------------------------------------------------------------------
+  [1] possibly tipsy man loves cheap costco beer so much, he made a commercial for it
+  [2] research finds turning off air conditioning during the day can save money
+  [3] healthy heart may also mean healthy brain
+  [4] karl lagerfeld's age finally revealed by designer
+
+----------------------------------------------------------------------
+  C2: things, old, won, hate, believe
+  Size: 43  |  FP: 0  |  FN: 43
+----------------------------------------------------------------------
+  [1] in this family we maintain the ways of the old suburb
+  [2] fans of green screens, incredibly fake-looking things express love for modern cinema
+  [3] time flies when you’re feeding an addiction to internet pornography over which you no longer have any control
+  [4] i should not be allowed to say the following things about america
+
+----------------------------------------------------------------------
+  C3: jacko, attacko, jacko attacko, stolen moment, moment week
+  Size: 12  |  FP: 3  |  FN: 9
+----------------------------------------------------------------------
+  [1] stolen moment of the week
+  [2] police pursue person of interest in 42-year-old 'valentine's day killings' cold case
+  [3] sam nunberg: 'i'm not having a meltdown'
+  [4] jacko is on the attacko!
+
+----------------------------------------------------------------------
+  C4: calls, nepal, nepal calls, record, attacks
+  Size: 14  |  FP: 9  |  FN: 5
+----------------------------------------------------------------------
+  [1] abbey in uk seeking to break world record for largest vampire gathering
+  [2] fleetwood mac cancels tour in light of john mcvie's cancer treatment
+  [3] jerry sandusky's pension reinstated by appeals court
+  [4] pope francis reinstates priest suspended for communist beliefs
+
+----------------------------------------------------------------------
+  C5: police, case, life, customer, air maroc
+  Size: 12  |  FP: 8  |  FN: 4
+----------------------------------------------------------------------
+  [1] goddamn it, the neighbors are silently going at it again, i imagine
+  [2] police officer goes extra mile for kid whose elf on the shelf got stolen
+  [3] tough: the new tmnt game follows a european trip where the turtles realize their fervent italian-american pride has little in common with modern italian life
+  [4] 6-year-old throws a tantrum because he really wants to get married
+
+----------------------------------------------------------------------
+  C6: require, ideal eating, eating competition, competition, conditions
+  Size: 4  |  FP: 0  |  FN: 4
+----------------------------------------------------------------------
+  [1] conditions ideal for eating competition
+  [2] proposed legislation would require airline seats meet federal ass standards
+  [3] volunteers rush to clean up glistening hunks after massive baby oil spill
+  [4] should illinois require safety guardrails be placed around all bathtubs in the state?
+
+----------------------------------------------------------------------
+  C7: new, house, toddler, gay, film
+  Size: 26  |  FP: 26  |  FN: 0
+----------------------------------------------------------------------
+  [1] american black film festival announces 2016 film lineup
+  [2] gay couple claims russia accidentally recognized their marriage
+  [3] jetblue event raises question of unstable approach to hiring
+  [4] gay trainer uses new passion to break down barriers with straight men
+
+======================================================================

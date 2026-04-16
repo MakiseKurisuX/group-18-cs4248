@@ -1,0 +1,77 @@
+MESO-LEVEL CLUSTER REPORT  (K=8)
+Mode: improved_no_tuning_calibrated   Dataset: master_copy_dedup_v2
+======================================================================
+
+──────────────────────────────────────────────────────────────────────
+  C0: new, trump, day, world, time
+  Size: 4390  │  FP: 3916  │  FN: 474
+──────────────────────────────────────────────────────────────────────
+  [1] kate middleton demoted? duchess ordered to curtsy to princesses eugenie & beatrice
+  [2] house of lies
+  [3] richard albero concludes his quixotic trek on behalf of wounded warriors
+  [4] last gasp
+
+──────────────────────────────────────────────────────────────────────
+  C1: just, time, like, really, people
+  Size: 3627  │  FP: 1522  │  FN: 2105
+──────────────────────────────────────────────────────────────────────
+  [1] breastfeeding: the end of the road?
+  [2] things everyone wishes they knew before trying to buy their first car
+  [3] sometimes when things get really stressful, i close my eyes, sit back, and pretend i’m back in kenya
+  [4] who wants to be a millionaire?
+
+──────────────────────────────────────────────────────────────────────
+  C2: new, man, trump, finds, year
+  Size: 4441  │  FP: 4441  │  FN: 0
+──────────────────────────────────────────────────────────────────────
+  [1] black women's roundtable optimistic about nfl's new personal conduct policy
+  [2] drop tart tone
+  [3] washington white nose bat death becomes first west of rockies
+  [4] ex-wife trolls former husband with vanity license plate
+
+──────────────────────────────────────────────────────────────────────
+  C3: trump, obama, new, million, billion
+  Size: 3600  │  FP: 103  │  FN: 3497
+──────────────────────────────────────────────────────────────────────
+  [1] roku pulls ‘infowars’ channel following complaints
+  [2] north and south korean teams to march together in winter olympics
+  [3] u.s. finishes a 'strong second' in iraq war
+  [4] tuition hikes
+
+──────────────────────────────────────────────────────────────────────
+  C4: trump, new, study, house, report
+  Size: 3411  │  FP: 2853  │  FN: 558
+──────────────────────────────────────────────────────────────────────
+  [1] nfl loses rights to ‘super bowl’
+  [2] senate dems should invoke 60-vote rule
+  [3] wind industry threatened by fiscal cliff, avoiding hiring, laying off workers
+  [4] hurricane sandy creates top-shelf liquor shortage in new jersey after storm surges flood warehouse
+
+──────────────────────────────────────────────────────────────────────
+  C5: tips, onion, know, new, cons
+  Size: 4383  │  FP: 8  │  FN: 4375
+──────────────────────────────────────────────────────────────────────
+  [1] our annual year: best of october
+  [2] the men who built canada
+  [3] this unknown reviewer standing in front of a wall of consoles, game art, and stuffed game characters has immediately won our trust
+  [4] tim darje
+
+──────────────────────────────────────────────────────────────────────
+  C6: man, woman, police, year, old
+  Size: 2129  │  FP: 1844  │  FN: 285
+──────────────────────────────────────────────────────────────────────
+  [1] man loses fingers in musket misfire
+  [2] officials say outbreak of australian wildfire may have spread from engulfed passenger traveling from u.s.
+  [3] clueless op-ed on sexism reveals businessman's own gender bias
+  [4] man could get locked up irl for sending spam messages on facebook
+
+──────────────────────────────────────────────────────────────────────
+  C7: recipe, recipe day, day, salad, chicken
+  Size: 671  │  FP: 651  │  FN: 20
+──────────────────────────────────────────────────────────────────────
+  [1] recipe of the day: chocolate-bourbon tart
+  [2] most misunderstood british foods
+  [3] taste test: the best natural peanut butter
+  [4] restaurant portion size: nearly all entrees exceed nutrition recommendations
+
+======================================================================

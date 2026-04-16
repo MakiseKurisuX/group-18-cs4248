@@ -1,0 +1,76 @@
+MESO-LEVEL CLUSTER REPORT  (K=8)
+Mode: improved_no_tuning   Dataset: original_test
+======================================================================
+
+──────────────────────────────────────────────────────────────────────
+  C0: frankenstein movie, frankenstein, movie, turned big, turned
+  Size: 3  │  FP: 0  │  FN: 3
+──────────────────────────────────────────────────────────────────────
+  [1] aaron eckhart likes to make one frankenstein movie for them, one frankenstein movie for himself
+  [2] jews to celebrate rosh hashasha or something
+  [3] great, now it's turned into a whole big thing
+
+──────────────────────────────────────────────────────────────────────
+  C1: hurricane, crying, child, killing, cat
+  Size: 22  │  FP: 9  │  FN: 13
+──────────────────────────────────────────────────────────────────────
+  [1] new candy to hum and glow in mouths
+  [2] hurricane bitch hits florida
+  [3] mall santa crying hysterically in photo with toddler
+  [4] activists petition cupcake kingdom to address adorable housing crisis
+
+──────────────────────────────────────────────────────────────────────
+  C2: jim, god, guy, dad, free
+  Size: 33  │  FP: 18  │  FN: 15
+──────────────────────────────────────────────────────────────────────
+  [1] jimmy kimmel hilariously rebrands hatchimals as 'disappointimals'
+  [2] rev. run on being a tv dad: 'it's important to me'
+  [3] zagat editor a 'nice guy' but 'kind of boring'
+  [4] fellow millennial voters: no one owes us a damn thing
+
+──────────────────────────────────────────────────────────────────────
+  C3: trump, gop, candidate, 2011, lost 2011
+  Size: 28  │  FP: 0  │  FN: 28
+──────────────────────────────────────────────────────────────────────
+  [1] those we lost in 2011
+  [2] garroting survivors call for wire ban
+  [3] paul ryan calls on trump to take dismantling of america more seriously
+  [4] congress approves $40 million to fight teens
+
+──────────────────────────────────────────────────────────────────────
+  C4: scientists, rainbow, books, giant, bubble rescued
+  Size: 20  │  FP: 18  │  FN: 2
+──────────────────────────────────────────────────────────────────────
+  [1] curiosity captures 360-degree panorama from martian dune
+  [2] fidelity matches some ira contributions
+  [3] scientists crack mystery of tiny traveling plants
+  [4] astronomers discover most distant galaxy yet
+
+──────────────────────────────────────────────────────────────────────
+  C5: clinton, new, vote, man, good
+  Size: 42  │  FP: 0  │  FN: 42
+──────────────────────────────────────────────────────────────────────
+  [1] man captures ross perot, is granted three wishes
+  [2] al-qaeda: latest missile attack bears hallmarks of u.s. military
+  [3] check it out: deer
+  [4] vote, voter wasted
+
+──────────────────────────────────────────────────────────────────────
+  C6: trump, house, says, surprise, new
+  Size: 37  │  FP: 25  │  FN: 12
+──────────────────────────────────────────────────────────────────────
+  [1] republicans ready for december shutdown as boehner exits
+  [2] cuomo makes surprise afghanistan trip
+  [3] legislators still concerned about key non-issues
+  [4] trump base celebrates president for standing up to constitution
+
+──────────────────────────────────────────────────────────────────────
+  C7: life, best, remove, 10, season
+  Size: 46  │  FP: 46  │  FN: 0
+──────────────────────────────────────────────────────────────────────
+  [1] learning right gives you might
+  [2] 'take your kid to work day' results in npr newscast shutting down for full minute
+  [3] lots of parents know this scenario
+  [4] bionic fingertip restores amputee's sense of touch
+
+======================================================================

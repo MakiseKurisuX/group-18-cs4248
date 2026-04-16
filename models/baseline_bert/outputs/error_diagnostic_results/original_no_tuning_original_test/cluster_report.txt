@@ -1,0 +1,77 @@
+MESO-LEVEL CLUSTER REPORT  (K=8)
+Mode: original_no_tuning   Dataset: original_test
+======================================================================
+
+──────────────────────────────────────────────────────────────────────
+  C0: trump, african, sexual, anchor, cnn
+  Size: 17  │  FP: 0  │  FN: 17
+──────────────────────────────────────────────────────────────────────
+  [1] eric trump poses with carcass of safari guide shot on african hunting trip
+  [2] angolan war criminal called in as character witness to manafort fraud trial
+  [3] franz ferdinand frontman shot by gavrilo princip bassist
+  [4] russian beef shortage traced to boris yeltsin
+
+──────────────────────────────────────────────────────────────────────
+  C1: cause, house, jr, remove, family
+  Size: 31  │  FP: 30  │  FN: 1
+──────────────────────────────────────────────────────────────────────
+  [1] white house says enviros love this trade pact, but enviros say otherwise
+  [2] freddie prinze jr. recovers
+  [3] jack lew nears decision to keep hamilton on front of $10 bill, put a woman on the $20
+  [4] house vote maintains military ability to jail people without trial
+
+──────────────────────────────────────────────────────────────────────
+  C2: lost, night, goes, lost 2011, 2011
+  Size: 31  │  FP: 3  │  FN: 28
+──────────────────────────────────────────────────────────────────────
+  [1] luther vandross remembered, if only for one night
+  [2] rev. run on being a tv dad: 'it's important to me'
+  [3] clinton goes back in time, teams up with golden-age clinton
+  [4] kite flyer in the zone
+
+──────────────────────────────────────────────────────────────────────
+  C3: scientists, discover, life, years, man
+  Size: 28  │  FP: 28  │  FN: 0
+──────────────────────────────────────────────────────────────────────
+  [1] pence, catholic leaders share narrow vision of faith at prayer breakfast
+  [2] learning right gives you might
+  [3] men's mental health demands male friendship
+  [4] man records every detail of his life for 5 years
+
+──────────────────────────────────────────────────────────────────────
+  C4: trump, million, candidate, hurricane, republicans
+  Size: 32  │  FP: 1  │  FN: 31
+──────────────────────────────────────────────────────────────────────
+  [1] boehner resignation leaves massive leadership vacuum in congress intact
+  [2] top congressional watchdog uninterested in trump's conflicts of interest before he takes office
+  [3] congress approves $40 million to fight teens
+  [4] income inequality emerges as key topic to avoid in 2014 elections
+
+──────────────────────────────────────────────────────────────────────
+  C5: attack, fans, teen, figures, american
+  Size: 30  │  FP: 10  │  FN: 20
+──────────────────────────────────────────────────────────────────────
+  [1] beautiful nurse gives teen enema
+  [2] judge rolls eyes, upholds naughty baker's first-amendment rights
+  [3] fans riot in streets as u.s. victorious
+  [4] pentagon to withhold budget figures out of respect for american families
+
+──────────────────────────────────────────────────────────────────────
+  C6: rainbow, free, books, new, media
+  Size: 33  │  FP: 20  │  FN: 13
+──────────────────────────────────────────────────────────────────────
+  [1] mike pence takes oath of office as country's next vice president
+  [2] new anti-drug campaign thinks emojis will finally get teens to listen
+  [3] sean spicer finally calls it quits after 6 months of humiliations
+  [4] janelle monae: 'none of us are free until all of us are free'
+
+──────────────────────────────────────────────────────────────────────
+  C7: new, ad, jim, gang, america
+  Size: 26  │  FP: 1  │  FN: 25
+──────────────────────────────────────────────────────────────────────
+  [1] mitt romney: 'we've gotta rethink campaign finance'
+  [2] zagat editor a 'nice guy' but 'kind of boring'
+  [3] kathie lee gifford denies getting sincerity implants
+  [4] travel channel blows its 'bed and breakfasts of new england' wad
+
+======================================================================
