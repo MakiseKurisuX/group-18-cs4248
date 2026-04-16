@@ -1,0 +1,96 @@
+{
+  "raw_dataset": {
+    "rows": 28619,
+    "label_counts": {
+      "0": 14985,
+      "1": 13634
+    },
+    "top_sources": {
+      "www.huffingtonpost.com": 14984,
+      "www.theonion.com": 6578,
+      "local.theonion.com": 3351,
+      "politics.theonion.com": 2222,
+      "entertainment.theonion.com": 1337,
+      "sports.theonion.com": 123,
+      "ogn.theonion.com": 24
+    },
+    "headline_length": {
+      "mean_words": 10.05,
+      "median_words": 10,
+      "p95_words": 16,
+      "max_words": 151
+    }
+  },
+  "after_deduplication": {
+    "rows": 28503,
+    "removed_duplicates": 116
+  },
+  "splits": {
+    "train": {
+      "rows": 22801,
+      "label_counts": {
+        "0": 11960,
+        "1": 10841
+      },
+      "top_sources": {
+        "www.huffingtonpost.com": 11959,
+        "www.theonion.com": 5208,
+        "local.theonion.com": 2678,
+        "politics.theonion.com": 1765,
+        "entertainment.theonion.com": 1077,
+        "sports.theonion.com": 101,
+        "ogn.theonion.com": 13
+      },
+      "headline_length": {
+        "mean_words": 10.07,
+        "median_words": 10,
+        "p95_words": 16,
+        "max_words": 151
+      }
+    },
+    "val": {
+      "rows": 2851,
+      "label_counts": {
+        "0": 1496,
+        "1": 1355
+      },
+      "top_sources": {
+        "www.huffingtonpost.com": 1496,
+        "www.theonion.com": 631,
+        "local.theonion.com": 348,
+        "politics.theonion.com": 235,
+        "entertainment.theonion.com": 124,
+        "sports.theonion.com": 11,
+        "ogn.theonion.com": 6
+      },
+      "headline_length": {
+        "mean_words": 9.99,
+        "median_words": 10,
+        "p95_words": 16,
+        "max_words": 30
+      }
+    },
+    "test": {
+      "rows": 2851,
+      "label_counts": {
+        "0": 1495,
+        "1": 1356
+      },
+      "top_sources": {
+        "www.huffingtonpost.com": 1495,
+        "www.theonion.com": 674,
+        "local.theonion.com": 314,
+        "politics.theonion.com": 219,
+        "entertainment.theonion.com": 133,
+        "sports.theonion.com": 11,
+        "ogn.theonion.com": 5
+      },
+      "headline_length": {
+        "mean_words": 10.07,
+        "median_words": 10,
+        "p95_words": 16,
+        "max_words": 31
+      }
+    }
+  }
+}
