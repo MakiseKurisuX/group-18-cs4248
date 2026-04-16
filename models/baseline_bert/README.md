@@ -64,8 +64,8 @@ The processed datasets used by this pipeline already exist under the repo `data/
 Standard post-training evaluation targets used by `run_all_evals.py` are:
 
 - `data/processed/original/test.csv`
-- `data/processed/master/master_copy_dedup_v2.csv`
 - `data/diagnostic/validation_set.csv`
+- `data/processed/master/master_copy_dedup_v2.csv` *(excluded by default; pass `--include-master-eval` to include)*
 
 ## Training behavior
 
@@ -217,7 +217,7 @@ models/baseline_bert/outputs/error_diagnostic_results/improved_with_tuning_diagn
 and writes augmentation artifacts to:
 
 ```text
-data/augmentation_output/baseline_bert/improved_large_with_tuning/
+data/augmentation_output/baseline_bert/improved_with_tuning/
 ```
 
 ### Step 5. Train the augmented model
@@ -248,16 +248,24 @@ If a model is already trained, you can calibrate and re-evaluate without retrain
 python models/baseline_bert/calibrate_and_evaluate.py --mode improved_no_tuning
 ```
 
-Supported calibrated modes include:
+All six calibratable modes are supported:
 
 ```bash
+python models/baseline_bert/calibrate_and_evaluate.py --mode improved_no_tuning
 python models/baseline_bert/calibrate_and_evaluate.py --mode improved_large_no_tuning
+python models/baseline_bert/calibrate_and_evaluate.py --mode improved_with_tuning
 python models/baseline_bert/calibrate_and_evaluate.py --mode improved_large_with_tuning
 python models/baseline_bert/calibrate_and_evaluate.py --mode augmented_with_tuning
 python models/baseline_bert/calibrate_and_evaluate.py --mode master_no_tuning
 ```
 
-The `pretrained`, `pretrained_large`, `original_no_tuning`, and `original_with_tuning` modes are not supported by this script because they are not part of the calibrated mode family.
+The `pretrained`, `pretrained_large`, `original_no_tuning`, and `original_with_tuning` modes are not supported because they are not part of the calibratable mode family.
+
+By default `calibrate_and_evaluate.py` evaluates on all three datasets including `master_copy_dedup_v2`. To skip the master evaluation:
+
+```bash
+python models/baseline_bert/calibrate_and_evaluate.py --mode improved_with_tuning --skip-master-eval
+```
 
 ## Local error diagnostics
 
@@ -330,10 +338,16 @@ python models/baseline_bert/evaluate.py \
     --match-training-validation
 ```
 
-Run all supported modes across the standard datasets (`original_test`, `master_copy_dedup_v2`, and `diagnostic_val`):
+Run all supported modes across `original_test` and `diagnostic_val` (master skipped by default):
 
 ```bash
 python models/baseline_bert/run_all_evals.py --mode all
+```
+
+Include `master_copy_dedup_v2` as well:
+
+```bash
+python models/baseline_bert/run_all_evals.py --mode all --include-master-eval
 ```
 
 Apply a calibrated threshold manually:
@@ -386,7 +400,7 @@ models/baseline_bert/outputs/
 Additional cross-folder outputs:
 
 - augmented merged training split: `data/processed/augmented/train.csv`
-- augmentation candidates and reports: `data/augmentation_output/baseline_bert/improved_large_with_tuning/`
+- augmentation candidates and reports: `data/augmentation_output/baseline_bert/improved_with_tuning/`
 
 ## Notes
 
