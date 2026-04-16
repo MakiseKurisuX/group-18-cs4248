@@ -39,6 +39,26 @@ pip install torch transformers peft optuna datasets scikit-learn pandas numpy
 
 We ran this on the NUS SoC cluster using A100 GPUs — approximately 100 minutes for 10 trial runs. The script auto-detects GPU availability and selects the appropriate mixed-precision mode (bf16 for Ampere+, fp16 otherwise, none for CPU).
 
+This was the .sh file used in order to train on the cluster.
+
+```
+#!/bin/bash
+#SBATCH --job-name=deberta_lora
+#SBATCH --gpus=a100-40
+#SBATCH --time=03:00:00
+#SBATCH --output=sarcasm_%j.out
+#SBATCH --error=sarcasm_%j.err
+
+unset CUDA_VISIBLE_DEVICES
+export HF_HOME=~/hf-cache
+export CUDA_LAUNCH_BLOCKING=0
+
+source ~/venv/bin/activate
+cd ~/ml-nlp
+nvidia-smi
+python ~/ml-nlp/run_sarcasm.py
+```
+
 ---
 
 ## Data
